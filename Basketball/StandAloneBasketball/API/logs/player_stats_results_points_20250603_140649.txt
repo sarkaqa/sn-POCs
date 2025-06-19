@@ -1,0 +1,136 @@
+Player Stats Log
+==================================================
+
+==================================================
+Processing stats for player 879707 (limited range: 2023–2025)
+==================================================
+879707 Points thresholds in season 2023 - 2024:
+
+Detailed game stats for minimum scored points of 10:
+  Date: 2023-11-03 | Event ID: 2590751 | Points: 38
+  Date: 2023-11-28 | Event ID: 2591181 | Points: 40
+  Date: 2023-10-25 | Event ID: 2590570 | Points: 27
+  Date: 2023-10-27 | Event ID: 2591133 | Points: 43
+  Date: 2023-10-31 | Event ID: 2591141 | Points: 26
+  Date: 2023-11-01 | Event ID: 2591265 | Points: 30
+  Date: 2023-11-05 | Event ID: 2591144 | Points: 31
+  Date: 2023-11-08 | Event ID: 2591152 | Points: 20
+  Date: 2023-11-11 | Event ID: 2591380 | Points: 21
+  Date: 2023-11-13 | Event ID: 2590744 | Points: 22
+  Date: 2023-11-15 | Event ID: 2590850 | Points: 34
+  Date: 2023-11-25 | Event ID: 2591161 | Points: 22
+  Date: 2023-11-26 | Event ID: 2591176 | Points: 10
+  Date: 2023-11-30 | Event ID: 2591185 | Points: 23
+  Date: 2023-12-02 | Event ID: 2591567 | Points: 20
+  Date: 2023-12-06 | Event ID: 2614200 | Points: 35
+  Date: 2023-12-08 | Event ID: 2614229 | Points: 27
+  Date: 2023-12-11 | Event ID: 2591087 | Points: 22
+  Date: 2023-12-12 | Event ID: 2613790 | Points: 29
+  Date: 2023-12-14 | Event ID: 2590412 | Points: 31
+  Date: 2023-12-16 | Event ID: 2591197 | Points: 22
+  Date: 2023-12-18 | Event ID: 2591201 | Points: 37
+  Date: 2023-12-29 | Event ID: 2591213 | Points: 34
+  Date: 2024-01-01 | Event ID: 2590501 | Points: 26
+  Date: 2024-01-03 | Event ID: 2591217 | Points: 22
+  Date: 2024-01-05 | Event ID: 2591221 | Points: 26
+  Date: 2024-01-07 | Event ID: 2591226 | Points: 17
+  Date: 2024-01-11 | Event ID: 2591234 | Points: 45
+  Date: 2024-01-15 | Event ID: 2591239 | Points: 34
+  Date: 2024-01-17 | Event ID: 2591244 | Points: 31
+  Date: 2024-01-20 | Event ID: 2590522 | Points: 18
+  Date: 2024-01-22 | Event ID: 2591099 | Points: 25
+  Date: 2024-01-24 | Event ID: 2591499 | Points: 23
+  Date: 2024-01-26 | Event ID: 2591500 | Points: 32
+  Date: 2024-01-29 | Event ID: 2591247 | Points: 28
+  Date: 2024-01-31 | Event ID: 2591249 | Points: 45
+  Date: 2024-02-01 | Event ID: 2590665 | Points: 25
+  Date: 2024-02-03 | Event ID: 2590683 | Points: 31
+  Date: 2024-02-05 | Event ID: 2591252 | Points: 29
+  Date: 2024-02-07 | Event ID: 2590597 | Points: 40
+  Date: 2024-02-08 | Event ID: 2590763 | Points: 27
+  Date: 2024-02-10 | Event ID: 2590515 | Points: 15
+  Date: 2024-02-12 | Event ID: 2591256 | Points: 36
+  Date: 2024-02-14 | Event ID: 2591261 | Points: 30
+  Date: 2024-02-25 | Event ID: 2590601 | Points: 16
+  Date: 2024-02-27 | Event ID: 2591292 | Points: 31
+  Date: 2024-02-28 | Event ID: 2591246 | Points: 19
+  Date: 2024-03-13 | Event ID: 2591389 | Points: 14
+  Date: 2024-03-16 | Event ID: 2591550 | Points: 13
+  Date: 2024-03-29 | Event ID: 2591307 | Points: 12
+  Date: 2024-03-31 | Event ID: 2590738 | Points: 13
+  Date: 2024-04-03 | Event ID: 2590979 | Points: 24
+  Date: 2024-04-06 | Event ID: 2591238 | Points: 10
+  Date: 2024-04-10 | Event ID: 2591311 | Points: 29
+  Date: 2024-04-12 | Event ID: 2591312 | Points: 33
+879707 Points thresholds in season 2024 - 2025:
+
+Detailed game stats for minimum scored points of 10:
+  Date: 2024-11-15 | Event ID: 2692518 | Points: 37
+  Date: 2024-11-19 | Event ID: 2692526 | Points: 35
+  Date: 2024-11-29 | Event ID: 2692546 | Points: 12
+  Date: 2024-12-03 | Event ID: 2692556 | Points: 19
+  Date: 2024-10-23 | Event ID: 2693960 | Points: 21
+  Date: 2024-10-25 | Event ID: 2693804 | Points: 19
+  Date: 2024-10-26 | Event ID: 2693743 | Points: 30
+  Date: 2024-10-28 | Event ID: 2694617 | Points: 25
+  Date: 2024-10-30 | Event ID: 2693806 | Points: 24
+  Date: 2024-11-01 | Event ID: 2693808 | Points: 22
+  Date: 2024-11-02 | Event ID: 2694383 | Points: 30
+  Date: 2024-11-04 | Event ID: 2693810 | Points: 14
+  Date: 2024-11-06 | Event ID: 2694362 | Points: 29
+  Date: 2024-11-08 | Event ID: 2693811 | Points: 12
+  Date: 2024-11-09 | Event ID: 2693813 | Points: 22
+  Date: 2024-11-11 | Event ID: 2693751 | Points: 36
+  Date: 2024-11-13 | Event ID: 2694547 | Points: 23
+  Date: 2024-11-20 | Event ID: 2693817 | Points: 10
+  Date: 2024-11-24 | Event ID: 2693819 | Points: 26
+  Date: 2024-11-27 | Event ID: 2693820 | Points: 30
+  Date: 2024-12-01 | Event ID: 2693821 | Points: 35
+  Date: 2024-12-05 | Event ID: 2693823 | Points: 28
+  Date: 2024-12-07 | Event ID: 2693715 | Points: 18
+  Date: 2024-12-08 | Event ID: 2694146 | Points: 12
+  Date: 2024-12-13 | Event ID: 2716369 | Points: 20
+  Date: 2024-12-16 | Event ID: 2716384 | Points: 18
+  Date: 2024-12-20 | Event ID: 2693825 | Points: 27
+  Date: 2024-12-21 | Event ID: 2693827 | Points: 19
+  Date: 2024-12-23 | Event ID: 2693829 | Points: 22
+  Date: 2024-12-27 | Event ID: 2693941 | Points: 33
+  Date: 2024-12-30 | Event ID: 2694102 | Points: 23
+  Date: 2024-12-31 | Event ID: 2694460 | Points: 26
+  Date: 2025-01-03 | Event ID: 2693889 | Points: 15
+  Date: 2025-01-05 | Event ID: 2693831 | Points: 19
+  Date: 2025-01-08 | Event ID: 2693832 | Points: 11
+  Date: 2025-01-12 | Event ID: 2693836 | Points: 19
+  Date: 2025-01-14 | Event ID: 2694269 | Points: 35
+  Date: 2025-01-18 | Event ID: 2694707 | Points: 36
+  Date: 2025-01-20 | Event ID: 2693837 | Points: 33
+  Date: 2025-01-22 | Event ID: 2694193 | Points: 19
+  Date: 2025-01-24 | Event ID: 2694591 | Points: 37
+  Date: 2025-01-25 | Event ID: 2693838 | Points: 33
+  Date: 2025-01-27 | Event ID: 2693839 | Points: 21
+  Date: 2025-01-29 | Event ID: 2694190 | Points: 34
+  Date: 2025-01-30 | Event ID: 2693841 | Points: 24
+  Date: 2025-02-02 | Event ID: 2693842 | Points: 12
+  Date: 2025-02-04 | Event ID: 2693843 | Points: 31
+  Date: 2025-02-07 | Event ID: 2693802 | Points: 33
+  Date: 2025-02-10 | Event ID: 2693844 | Points: 23
+  Date: 2025-02-12 | Event ID: 2694035 | Points: 21
+  Date: 2025-02-20 | Event ID: 2693689 | Points: 26
+  Date: 2025-02-21 | Event ID: 2693845 | Points: 27
+  Date: 2025-02-23 | Event ID: 2693846 | Points: 33
+  Date: 2025-02-25 | Event ID: 2694430 | Points: 11
+  Date: 2025-02-28 | Event ID: 2693653 | Points: 41
+  Date: 2025-03-04 | Event ID: 2693790 | Points: 28
+  Date: 2025-03-05 | Event ID: 2693850 | Points: 26
+  Date: 2025-03-07 | Event ID: 2693733 | Points: 24
+  Date: 2025-03-09 | Event ID: 2694554 | Points: 15
+  Date: 2025-03-16 | Event ID: 2693853 | Points: 23
+  Date: 2025-03-18 | Event ID: 2694375 | Points: 18
+  Date: 2025-03-19 | Event ID: 2694294 | Points: 26
+  Date: 2025-03-23 | Event ID: 2693922 | Points: 16
+  Date: 2025-03-27 | Event ID: 2693854 | Points: 25
+  Date: 2025-03-28 | Event ID: 2694049 | Points: 38
+  Date: 2025-03-30 | Event ID: 2693855 | Points: 24
+  Date: 2025-04-02 | Event ID: 2693856 | Points: 27
+  Date: 2025-04-04 | Event ID: 2694202 | Points: 26
+  Date: 2025-04-06 | Event ID: 2693858 | Points: 19

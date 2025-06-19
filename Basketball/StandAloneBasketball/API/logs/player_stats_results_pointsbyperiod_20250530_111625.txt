@@ -1,0 +1,2095 @@
+Player Stats Log
+==================================================
+
+✅ Found 26 eventId(s) for player 338365 in season 2011:
+1173318, 1172397, 1172409, 1172965, 1172867, 1172446, 1172451, 1172459, 1172464, 1172473
+1172479, 1172544, 1172484, 1172457, 1172520, 1172528, 1172533, 1172661, 1173061, 1172541
+1173051, 1172431, 1173284, 1172546, 1172552, 1172864
+
+Points scored by player 338365 in event 1173318 in season 2011:
+  Period 1: 2 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172397 in season 2011:
+  Period 1: 0 pts
+  Period 2: 15 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172409 in season 2011:
+  Period 1: 10 pts
+  Period 2: 5 pts
+  Period 3: 4 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172965 in season 2011:
+  Period 1: 2 pts
+  Period 2: 0 pts
+  Period 3: 6 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172867 in season 2011:
+  Period 1: 9 pts
+  Period 2: 8 pts
+  Period 3: 3 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172446 in season 2011:
+  Period 1: 0 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1172451 in season 2011:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 7 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1172459 in season 2011:
+  Period 1: 10 pts
+  Period 2: 2 pts
+  Period 3: 16 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1172464 in season 2011:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 8 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1172473 in season 2011:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1172479 in season 2011:
+  Period 1: 4 pts
+  Period 2: 7 pts
+  Period 3: 5 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1172544 in season 2011:
+  Period 1: 6 pts
+  Period 2: 2 pts
+  Period 3: 3 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172484 in season 2011:
+  Period 1: 4 pts
+  Period 2: 5 pts
+  Period 3: 5 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172457 in season 2011:
+  Period 1: 15 pts
+  Period 2: 6 pts
+  Period 3: 12 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1172520 in season 2011:
+  Period 1: 6 pts
+  Period 2: 3 pts
+  Period 3: 2 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1172528 in season 2011:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172533 in season 2011:
+  Period 1: 4 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172661 in season 2011:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1173061 in season 2011:
+  Period 1: 7 pts
+  Period 2: 16 pts
+  Period 3: 4 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1172541 in season 2011:
+  Period 1: 6 pts
+  Period 2: 3 pts
+  Period 3: 0 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1173051 in season 2011:
+  Period 1: 9 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172431 in season 2011:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1173284 in season 2011:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 7 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172546 in season 2011:
+  Period 1: 4 pts
+  Period 2: 7 pts
+  Period 3: 2 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1172552 in season 2011:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1172864 in season 2011:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+✅ Found 78 eventId(s) for player 338365 in season 2012:
+1243063, 1242131, 1242423, 1243365, 1242137, 1242767, 1242143, 1242150, 1242491, 1242831
+1242142, 1242174, 1242165, 1242181, 1242187, 1242193, 1242199, 1242680, 1242547, 1243138
+1242589, 1242814, 1243060, 1242264, 1242205, 1243316, 1242211, 1242218, 1243151, 1242235
+1242242, 1242247, 1242538, 1242252, 1242260, 1242272, 1242750, 1242275, 1242281, 1242249
+1243306, 1242980, 1242296, 1242402, 1242958, 1242602, 1242214, 1242302, 1243213, 1242309
+1242314, 1242667, 1243103, 1242432, 1242257, 1242838, 1242319, 1242325, 1242331, 1242337
+1242344, 1242348, 1242351, 1242428, 1242803, 1243008, 1242358, 1243368, 1242364, 1242372
+1242377, 1243272, 1242384, 1242388, 1242393, 1242997, 1242400, 1243305
+
+Points scored by player 338365 in event 1243063 in season 2012:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1242131 in season 2012:
+  Period 1: 5 pts
+  Period 2: 12 pts
+  Period 3: 3 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242423 in season 2012:
+  Period 1: 7 pts
+  Period 2: 8 pts
+  Period 3: 3 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1243365 in season 2012:
+  Period 1: 2 pts
+  Period 2: 4 pts
+  Period 3: 3 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1242137 in season 2012:
+  Period 1: 15 pts
+  Period 2: 2 pts
+  Period 3: 2 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242767 in season 2012:
+  Period 1: 7 pts
+  Period 2: 6 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242143 in season 2012:
+  Period 1: 4 pts
+  Period 2: 0 pts
+  Period 3: 3 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242150 in season 2012:
+  Period 1: 2 pts
+  Period 2: 2 pts
+  Period 3: 2 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242491 in season 2012:
+  Period 1: 4 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242831 in season 2012:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 7 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1242142 in season 2012:
+  Period 1: 3 pts
+  Period 2: 8 pts
+  Period 3: 0 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1242174 in season 2012:
+  Period 1: 0 pts
+  Period 2: 6 pts
+  Period 3: 11 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242165 in season 2012:
+  Period 1: 0 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242181 in season 2012:
+  Period 1: 2 pts
+  Period 2: 12 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242187 in season 2012:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 3 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1242193 in season 2012:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 4 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242199 in season 2012:
+  Period 1: 4 pts
+  Period 2: 1 pts
+  Period 3: 9 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1242680 in season 2012:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 10 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242547 in season 2012:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 13 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1243138 in season 2012:
+  Period 1: 10 pts
+  Period 2: 2 pts
+  Period 3: 6 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242589 in season 2012:
+  Period 1: 6 pts
+  Period 2: 5 pts
+  Period 3: 15 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1242814 in season 2012:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1243060 in season 2012:
+  Period 1: 4 pts
+  Period 2: 5 pts
+  Period 3: 15 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1242264 in season 2012:
+  Period 1: 6 pts
+  Period 2: 7 pts
+  Period 3: 3 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242205 in season 2012:
+  Period 1: 2 pts
+  Period 2: 2 pts
+  Period 3: 3 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1243316 in season 2012:
+  Period 1: 6 pts
+  Period 2: 3 pts
+  Period 3: 17 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242211 in season 2012:
+  Period 1: 9 pts
+  Period 2: 6 pts
+  Period 3: 4 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242218 in season 2012:
+  Period 1: 6 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1243151 in season 2012:
+  Period 1: 13 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1242235 in season 2012:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 2 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242242 in season 2012:
+  Period 1: 0 pts
+  Period 2: 7 pts
+  Period 3: 12 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1242247 in season 2012:
+  Period 1: 11 pts
+  Period 2: 14 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242538 in season 2012:
+  Period 1: 0 pts
+  Period 2: 8 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242252 in season 2012:
+  Period 1: 4 pts
+  Period 2: 10 pts
+  Period 3: 2 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242260 in season 2012:
+  Period 1: 5 pts
+  Period 2: 3 pts
+  Period 3: 7 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242272 in season 2012:
+  Period 1: 5 pts
+  Period 2: 16 pts
+  Period 3: 2 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242750 in season 2012:
+  Period 1: 0 pts
+  Period 2: 3 pts
+  Period 3: 4 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1242275 in season 2012:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 2 pts
+  Period 4: 16 pts
+
+Points scored by player 338365 in event 1242281 in season 2012:
+  Period 1: 8 pts
+  Period 2: 6 pts
+  Period 3: 13 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242249 in season 2012:
+  Period 1: 7 pts
+  Period 2: 7 pts
+  Period 3: 7 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1243306 in season 2012:
+  Period 1: 12 pts
+  Period 2: 8 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242980 in season 2012:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242296 in season 2012:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 11 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242402 in season 2012:
+  Period 1: 0 pts
+  Period 2: 7 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242958 in season 2012:
+  Period 1: 7 pts
+  Period 2: 3 pts
+  Period 3: 4 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242602 in season 2012:
+  Period 1: 7 pts
+  Period 2: 11 pts
+  Period 3: 5 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1242214 in season 2012:
+  Period 1: 2 pts
+  Period 2: 4 pts
+  Period 3: 5 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242302 in season 2012:
+  Period 1: 5 pts
+  Period 2: 8 pts
+  Period 3: 6 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1243213 in season 2012:
+  Period 1: 4 pts
+  Period 2: 14 pts
+  Period 3: 5 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242309 in season 2012:
+  Period 1: 5 pts
+  Period 2: 4 pts
+  Period 3: 2 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1242314 in season 2012:
+  Period 1: 6 pts
+  Period 2: 0 pts
+  Period 3: 3 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242667 in season 2012:
+  Period 1: 0 pts
+  Period 2: 5 pts
+  Period 3: 9 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1243103 in season 2012:
+  Period 1: 10 pts
+  Period 2: 13 pts
+  Period 3: 4 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1242432 in season 2012:
+  Period 1: 4 pts
+  Period 2: 23 pts
+  Period 3: 11 pts
+  Period 4: 16 pts
+
+Points scored by player 338365 in event 1242257 in season 2012:
+  Period 1: 6 pts
+  Period 2: 10 pts
+  Period 3: 2 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242838 in season 2012:
+  Period 1: 13 pts
+  Period 2: 10 pts
+  Period 3: 3 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242319 in season 2012:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 4 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1242325 in season 2012:
+  Period 1: 3 pts
+  Period 2: 4 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242331 in season 2012:
+  Period 1: 7 pts
+  Period 2: 4 pts
+  Period 3: 10 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1242337 in season 2012:
+  Period 1: 7 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242344 in season 2012:
+  Period 1: 11 pts
+  Period 2: 6 pts
+  Period 3: 7 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242348 in season 2012:
+  Period 1: 8 pts
+  Period 2: 6 pts
+  Period 3: 11 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1242351 in season 2012:
+  Period 1: 6 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1242428 in season 2012:
+  Period 1: 2 pts
+  Period 2: 14 pts
+  Period 3: 8 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1242803 in season 2012:
+  Period 1: 10 pts
+  Period 2: 6 pts
+  Period 3: 8 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1243008 in season 2012:
+  Period 1: 2 pts
+  Period 2: 8 pts
+  Period 3: 7 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1242358 in season 2012:
+  Period 1: 7 pts
+  Period 2: 13 pts
+  Period 3: 8 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1243368 in season 2012:
+  Period 1: 7 pts
+  Period 2: 9 pts
+  Period 3: 5 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242364 in season 2012:
+  Period 1: 4 pts
+  Period 2: 2 pts
+  Period 3: 3 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242372 in season 2012:
+  Period 1: 13 pts
+  Period 2: 7 pts
+  Period 3: 9 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1242377 in season 2012:
+  Period 1: 0 pts
+  Period 2: 11 pts
+  Period 3: 0 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1243272 in season 2012:
+  Period 1: 6 pts
+  Period 2: 5 pts
+  Period 3: 3 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242384 in season 2012:
+  Period 1: 12 pts
+  Period 2: 5 pts
+  Period 3: 2 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1242388 in season 2012:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 13 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1242393 in season 2012:
+  Period 1: 6 pts
+  Period 2: 8 pts
+  Period 3: 6 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1242997 in season 2012:
+  Period 1: 22 pts
+  Period 2: 10 pts
+  Period 3: 7 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1242400 in season 2012:
+  Period 1: 9 pts
+  Period 2: 2 pts
+  Period 3: 13 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1243305 in season 2012:
+  Period 1: 3 pts
+  Period 2: 3 pts
+  Period 3: 0 pts
+  Period 4: 9 pts
+
+✅ Found 78 eventId(s) for player 338365 in season 2013:
+1348878, 1349298, 1348882, 1348964, 1348890, 1349495, 1348885, 1348891, 1348894, 1349505
+1348904, 1349721, 1348851, 1349303, 1349539, 1348911, 1349228, 1349536, 1349845, 1348916
+1348922, 1348761, 1348928, 1348930, 1348935, 1348778, 1348940, 1348946, 1349442, 1348856
+1349640, 1349700, 1349282, 1349414, 1348979, 1348955, 1348959, 1349359, 1349797, 1348965
+1348971, 1348976, 1348982, 1348988, 1349580, 1348996, 1349001, 1348808, 1349007, 1349011
+1349611, 1349015, 1349020, 1349798, 1348912, 1349871, 1349921, 1349262, 1349225, 1349023
+1349027, 1349030, 1349462, 1349035, 1349211, 1349037, 1349042, 1349047, 1349050, 1349053
+1349075, 1349884, 1349057, 1349060, 1349065, 1349283, 1349250, 1349068
+
+Points scored by player 338365 in event 1348878 in season 2013:
+  Period 1: 2 pts
+  Period 2: 3 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349298 in season 2013:
+  Period 1: 3 pts
+  Period 2: 12 pts
+  Period 3: 6 pts
+  Period 4: 17 pts
+
+Points scored by player 338365 in event 1348882 in season 2013:
+  Period 1: 8 pts
+  Period 2: 6 pts
+  Period 3: 5 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1348964 in season 2013:
+  Period 1: 6 pts
+  Period 2: 1 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1348890 in season 2013:
+  Period 1: 2 pts
+  Period 2: 1 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349495 in season 2013:
+  Period 1: 9 pts
+  Period 2: 8 pts
+  Period 3: 3 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1348885 in season 2013:
+  Period 1: 7 pts
+  Period 2: 6 pts
+  Period 3: 12 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1348891 in season 2013:
+  Period 1: 6 pts
+  Period 2: 6 pts
+  Period 3: 9 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1348894 in season 2013:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 3 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1349505 in season 2013:
+  Period 1: 0 pts
+  Period 2: 15 pts
+  Period 3: 2 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1348904 in season 2013:
+  Period 1: 4 pts
+  Period 2: 3 pts
+  Period 3: 13 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1349721 in season 2013:
+  Period 1: 4 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1348851 in season 2013:
+  Period 1: 5 pts
+  Period 2: 6 pts
+  Period 3: 5 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1349303 in season 2013:
+  Period 1: 8 pts
+  Period 2: 6 pts
+  Period 3: 7 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1349539 in season 2013:
+  Period 1: 3 pts
+  Period 2: 10 pts
+  Period 3: 11 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1348911 in season 2013:
+  Period 1: 4 pts
+  Period 2: 0 pts
+  Period 3: 9 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1349228 in season 2013:
+  Period 1: 2 pts
+  Period 2: 14 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349536 in season 2013:
+  Period 1: 0 pts
+  Period 2: 2 pts
+  Period 3: 10 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1349845 in season 2013:
+  Period 1: 4 pts
+  Period 2: 7 pts
+  Period 3: 13 pts
+  Period 4: 19 pts
+
+Points scored by player 338365 in event 1348916 in season 2013:
+  Period 1: 0 pts
+  Period 2: 9 pts
+  Period 3: 8 pts
+  Period 4: 16 pts
+
+Points scored by player 338365 in event 1348922 in season 2013:
+  Period 1: 2 pts
+  Period 2: 4 pts
+  Period 3: 6 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1348761 in season 2013:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 11 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1348928 in season 2013:
+  Period 1: 6 pts
+  Period 2: 11 pts
+  Period 3: 9 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1348930 in season 2013:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 10 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1348935 in season 2013:
+  Period 1: 6 pts
+  Period 2: 0 pts
+  Period 3: 4 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1348778 in season 2013:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1348940 in season 2013:
+  Period 1: 0 pts
+  Period 2: 5 pts
+  Period 3: 1 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1348946 in season 2013:
+  Period 1: 8 pts
+  Period 2: 6 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349442 in season 2013:
+  Period 1: 10 pts
+  Period 2: 14 pts
+  Period 3: 3 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1348856 in season 2013:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349640 in season 2013:
+  Period 1: 9 pts
+  Period 2: 5 pts
+  Period 3: 14 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1349700 in season 2013:
+  Period 1: 3 pts
+  Period 2: 5 pts
+  Period 3: 0 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1349282 in season 2013:
+  Period 1: 4 pts
+  Period 2: 1 pts
+  Period 3: 7 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1349414 in season 2013:
+  Period 1: 7 pts
+  Period 2: 0 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1348979 in season 2013:
+  Period 1: 8 pts
+  Period 2: 4 pts
+  Period 3: 7 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1348955 in season 2013:
+  Period 1: 4 pts
+  Period 2: 3 pts
+  Period 3: 6 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1348959 in season 2013:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1349359 in season 2013:
+  Period 1: 11 pts
+  Period 2: 11 pts
+  Period 3: 8 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1349797 in season 2013:
+  Period 1: 6 pts
+  Period 2: 7 pts
+  Period 3: 11 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1348965 in season 2013:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 10 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1348971 in season 2013:
+  Period 1: 15 pts
+  Period 2: 0 pts
+  Period 3: 13 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1348976 in season 2013:
+  Period 1: 11 pts
+  Period 2: 12 pts
+  Period 3: 9 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1348982 in season 2013:
+  Period 1: 10 pts
+  Period 2: 2 pts
+  Period 3: 8 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1348988 in season 2013:
+  Period 1: 12 pts
+  Period 2: 0 pts
+  Period 3: 7 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1349580 in season 2013:
+  Period 1: 13 pts
+  Period 2: 1 pts
+  Period 3: 17 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1348996 in season 2013:
+  Period 1: 2 pts
+  Period 2: 6 pts
+  Period 3: 2 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1349001 in season 2013:
+  Period 1: 6 pts
+  Period 2: 16 pts
+  Period 3: 7 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1348808 in season 2013:
+  Period 1: 6 pts
+  Period 2: 10 pts
+  Period 3: 12 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349007 in season 2013:
+  Period 1: 3 pts
+  Period 2: 12 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349011 in season 2013:
+  Period 1: 2 pts
+  Period 2: 8 pts
+  Period 3: 9 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1349611 in season 2013:
+  Period 1: 10 pts
+  Period 2: 0 pts
+  Period 3: 1 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1349015 in season 2013:
+  Period 1: 0 pts
+  Period 2: 5 pts
+  Period 3: 6 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1349020 in season 2013:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 2 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1349798 in season 2013:
+  Period 1: 7 pts
+  Period 2: 3 pts
+  Period 3: 1 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1348912 in season 2013:
+  Period 1: 3 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349871 in season 2013:
+  Period 1: 12 pts
+  Period 2: 8 pts
+  Period 3: 7 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349921 in season 2013:
+  Period 1: 10 pts
+  Period 2: 5 pts
+  Period 3: 14 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1349262 in season 2013:
+  Period 1: 9 pts
+  Period 2: 0 pts
+  Period 3: 10 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349225 in season 2013:
+  Period 1: 6 pts
+  Period 2: 5 pts
+  Period 3: 3 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349023 in season 2013:
+  Period 1: 4 pts
+  Period 2: 9 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349027 in season 2013:
+  Period 1: 2 pts
+  Period 2: 7 pts
+  Period 3: 5 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1349030 in season 2013:
+  Period 1: 0 pts
+  Period 2: 2 pts
+  Period 3: 5 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1349462 in season 2013:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 5 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1349035 in season 2013:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 12 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1349211 in season 2013:
+  Period 1: 0 pts
+  Period 2: 9 pts
+  Period 3: 13 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1349037 in season 2013:
+  Period 1: 9 pts
+  Period 2: 4 pts
+  Period 3: 10 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349042 in season 2013:
+  Period 1: 7 pts
+  Period 2: 7 pts
+  Period 3: 3 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1349047 in season 2013:
+  Period 1: 9 pts
+  Period 2: 6 pts
+  Period 3: 1 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1349050 in season 2013:
+  Period 1: 6 pts
+  Period 2: 8 pts
+  Period 3: 12 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1349053 in season 2013:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 12 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1349075 in season 2013:
+  Period 1: 6 pts
+  Period 2: 0 pts
+  Period 3: 11 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1349884 in season 2013:
+  Period 1: 4 pts
+  Period 2: 2 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349057 in season 2013:
+  Period 1: 3 pts
+  Period 2: 8 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349060 in season 2013:
+  Period 1: 16 pts
+  Period 2: 4 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1349065 in season 2013:
+  Period 1: 3 pts
+  Period 2: 4 pts
+  Period 3: 5 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1349283 in season 2013:
+  Period 1: 11 pts
+  Period 2: 11 pts
+  Period 3: 3 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1349250 in season 2013:
+  Period 1: 3 pts
+  Period 2: 18 pts
+  Period 3: 6 pts
+  Period 4: 17 pts
+
+Points scored by player 338365 in event 1349068 in season 2013:
+  Period 1: 15 pts
+  Period 2: 8 pts
+  Period 3: 2 pts
+  Period 4: 7 pts
+
+✅ Found 80 eventId(s) for player 338365 in season 2014:
+1460093, 1459698, 1460020, 1459705, 1459726, 1459463, 1459709, 1459717, 1459724, 1460075
+1459732, 1459543, 1459917, 1459983, 1460267, 1459930, 1459738, 1459743, 1459536, 1460544
+1459751, 1460387, 1459504, 1460054, 1459759, 1459768, 1460128, 1459706, 1459777, 1459784
+1459794, 1459801, 1459805, 1459814, 1460016, 1459820, 1459663, 1459862, 1459830, 1459835
+1459844, 1459848, 1459856, 1460045, 1459863, 1460326, 1459873, 1459750, 1460650, 1459641
+1460602, 1459882, 1459762, 1460515, 1459995, 1460419, 1460499, 1459888, 1459897, 1459904
+1459614, 1459910, 1459919, 1459925, 1459934, 1459941, 1459948, 1459953, 1460421, 1460207
+1460566, 1459990, 1459960, 1460533, 1460703, 1459688, 1459966, 1459970, 1459976, 1459980
+
+Points scored by player 338365 in event 1460093 in season 2014:
+  Period 1: 5 pts
+  Period 2: 7 pts
+  Period 3: 5 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1459698 in season 2014:
+  Period 1: 14 pts
+  Period 2: 6 pts
+  Period 3: 5 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1460020 in season 2014:
+  Period 1: 8 pts
+  Period 2: 3 pts
+  Period 3: 6 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459705 in season 2014:
+  Period 1: 7 pts
+  Period 2: 8 pts
+  Period 3: 5 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1459726 in season 2014:
+  Period 1: 9 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1459463 in season 2014:
+  Period 1: 10 pts
+  Period 2: 12 pts
+  Period 3: 2 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459709 in season 2014:
+  Period 1: 7 pts
+  Period 2: 0 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459717 in season 2014:
+  Period 1: 2 pts
+  Period 2: 0 pts
+  Period 3: 8 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1459724 in season 2014:
+  Period 1: 6 pts
+  Period 2: 8 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460075 in season 2014:
+  Period 1: 3 pts
+  Period 2: 10 pts
+  Period 3: 17 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459732 in season 2014:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459543 in season 2014:
+  Period 1: 12 pts
+  Period 2: 2 pts
+  Period 3: 0 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1459917 in season 2014:
+  Period 1: 8 pts
+  Period 2: 10 pts
+  Period 3: 12 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1459983 in season 2014:
+  Period 1: 14 pts
+  Period 2: 11 pts
+  Period 3: 3 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460267 in season 2014:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 6 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1459930 in season 2014:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459738 in season 2014:
+  Period 1: 2 pts
+  Period 2: 3 pts
+  Period 3: 9 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1459743 in season 2014:
+  Period 1: 7 pts
+  Period 2: 5 pts
+  Period 3: 4 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1459536 in season 2014:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 7 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1460544 in season 2014:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1459751 in season 2014:
+  Period 1: 2 pts
+  Period 2: 9 pts
+  Period 3: 0 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1460387 in season 2014:
+  Period 1: 13 pts
+  Period 2: 4 pts
+  Period 3: 3 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1459504 in season 2014:
+  Period 1: 13 pts
+  Period 2: 2 pts
+  Period 3: 7 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1460054 in season 2014:
+  Period 1: 6 pts
+  Period 2: 4 pts
+  Period 3: 5 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459759 in season 2014:
+  Period 1: 6 pts
+  Period 2: 13 pts
+  Period 3: 4 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1459768 in season 2014:
+  Period 1: 10 pts
+  Period 2: 2 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460128 in season 2014:
+  Period 1: 7 pts
+  Period 2: 6 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459706 in season 2014:
+  Period 1: 5 pts
+  Period 2: 2 pts
+  Period 3: 5 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1459777 in season 2014:
+  Period 1: 10 pts
+  Period 2: 4 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459784 in season 2014:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459794 in season 2014:
+  Period 1: 7 pts
+  Period 2: 7 pts
+  Period 3: 5 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1459801 in season 2014:
+  Period 1: 10 pts
+  Period 2: 2 pts
+  Period 3: 0 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1459805 in season 2014:
+  Period 1: 5 pts
+  Period 2: 8 pts
+  Period 3: 0 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1459814 in season 2014:
+  Period 1: 9 pts
+  Period 2: 3 pts
+  Period 3: 7 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1460016 in season 2014:
+  Period 1: 5 pts
+  Period 2: 7 pts
+  Period 3: 15 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459820 in season 2014:
+  Period 1: 9 pts
+  Period 2: 6 pts
+  Period 3: 11 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1459663 in season 2014:
+  Period 1: 4 pts
+  Period 2: 0 pts
+  Period 3: 10 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1459862 in season 2014:
+  Period 1: 4 pts
+  Period 2: 3 pts
+  Period 3: 15 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1459830 in season 2014:
+  Period 1: 9 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459835 in season 2014:
+  Period 1: 12 pts
+  Period 2: 2 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459844 in season 2014:
+  Period 1: 5 pts
+  Period 2: 3 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459848 in season 2014:
+  Period 1: 2 pts
+  Period 2: 7 pts
+  Period 3: 9 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459856 in season 2014:
+  Period 1: 10 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1460045 in season 2014:
+  Period 1: 8 pts
+  Period 2: 8 pts
+  Period 3: 15 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1459863 in season 2014:
+  Period 1: 9 pts
+  Period 2: 10 pts
+  Period 3: 4 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1460326 in season 2014:
+  Period 1: 11 pts
+  Period 2: 4 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459873 in season 2014:
+  Period 1: 11 pts
+  Period 2: 4 pts
+  Period 3: 26 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1459750 in season 2014:
+  Period 1: 3 pts
+  Period 2: 4 pts
+  Period 3: 15 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1460650 in season 2014:
+  Period 1: 3 pts
+  Period 2: 5 pts
+  Period 3: 6 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1459641 in season 2014:
+  Period 1: 4 pts
+  Period 2: 3 pts
+  Period 3: 8 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1460602 in season 2014:
+  Period 1: 11 pts
+  Period 2: 3 pts
+  Period 3: 7 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459882 in season 2014:
+  Period 1: 5 pts
+  Period 2: 12 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459762 in season 2014:
+  Period 1: 13 pts
+  Period 2: 0 pts
+  Period 3: 14 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1460515 in season 2014:
+  Period 1: 12 pts
+  Period 2: 2 pts
+  Period 3: 4 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459995 in season 2014:
+  Period 1: 9 pts
+  Period 2: 2 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460419 in season 2014:
+  Period 1: 14 pts
+  Period 2: 5 pts
+  Period 3: 7 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1460499 in season 2014:
+  Period 1: 3 pts
+  Period 2: 0 pts
+  Period 3: 5 pts
+  Period 4: 18 pts
+
+Points scored by player 338365 in event 1459888 in season 2014:
+  Period 1: 6 pts
+  Period 2: 1 pts
+  Period 3: 0 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1459897 in season 2014:
+  Period 1: 13 pts
+  Period 2: 3 pts
+  Period 3: 2 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1459904 in season 2014:
+  Period 1: 0 pts
+  Period 2: 4 pts
+  Period 3: 6 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1459614 in season 2014:
+  Period 1: 9 pts
+  Period 2: 2 pts
+  Period 3: 10 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1459910 in season 2014:
+  Period 1: 5 pts
+  Period 2: 0 pts
+  Period 3: 4 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459919 in season 2014:
+  Period 1: 6 pts
+  Period 2: 10 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459925 in season 2014:
+  Period 1: 0 pts
+  Period 2: 2 pts
+  Period 3: 11 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1459934 in season 2014:
+  Period 1: 7 pts
+  Period 2: 4 pts
+  Period 3: 5 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459941 in season 2014:
+  Period 1: 4 pts
+  Period 2: 0 pts
+  Period 3: 12 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459948 in season 2014:
+  Period 1: 4 pts
+  Period 2: 11 pts
+  Period 3: 7 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1459953 in season 2014:
+  Period 1: 13 pts
+  Period 2: 2 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460421 in season 2014:
+  Period 1: 6 pts
+  Period 2: 8 pts
+  Period 3: 13 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1460207 in season 2014:
+  Period 1: 8 pts
+  Period 2: 7 pts
+  Period 3: 17 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1460566 in season 2014:
+  Period 1: 6 pts
+  Period 2: 5 pts
+  Period 3: 3 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1459990 in season 2014:
+  Period 1: 3 pts
+  Period 2: 11 pts
+  Period 3: 11 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1459960 in season 2014:
+  Period 1: 5 pts
+  Period 2: 5 pts
+  Period 3: 9 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1460533 in season 2014:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 1 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1460703 in season 2014:
+  Period 1: 6 pts
+  Period 2: 5 pts
+  Period 3: 13 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459688 in season 2014:
+  Period 1: 7 pts
+  Period 2: 9 pts
+  Period 3: 2 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1459966 in season 2014:
+  Period 1: 14 pts
+  Period 2: 8 pts
+  Period 3: 4 pts
+  Period 4: 19 pts
+
+Points scored by player 338365 in event 1459970 in season 2014:
+  Period 1: 15 pts
+  Period 2: 5 pts
+  Period 3: 9 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1459976 in season 2014:
+  Period 1: 9 pts
+  Period 2: 0 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1459980 in season 2014:
+  Period 1: 7 pts
+  Period 2: 3 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+✅ Found 79 eventId(s) for player 338365 in season 2015:
+1570507, 1571316, 1570477, 1570512, 1570519, 1570522, 1570752, 1570526, 1570799, 1570469
+1570546, 1570554, 1571085, 1570562, 1571133, 1570569, 1571353, 1570573, 1571185, 1571417
+1570615, 1570797, 1570996, 1571149, 1570603, 1570576, 1570582, 1570585, 1570590, 1570595
+1570601, 1570604, 1570884, 1571620, 1570891, 1570607, 1571267, 1570613, 1571255, 1570642
+1570468, 1570619, 1570623, 1570629, 1571157, 1571603, 1571490, 1570635, 1570640, 1571446
+1571675, 1571193, 1571735, 1571002, 1571415, 1571674, 1570654, 1570954, 1570657, 1570662
+1570670, 1570679, 1570717, 1570720, 1571706, 1570894, 1570632, 1570725, 1570731, 1570732
+1570738, 1571410, 1570743, 1570749, 1570755, 1570760, 1571014, 1570944, 1570763
+
+Points scored by player 338365 in event 1570507 in season 2015:
+  Period 1: 24 pts
+  Period 2: 5 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571316 in season 2015:
+  Period 1: 12 pts
+  Period 2: 5 pts
+  Period 3: 4 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1570477 in season 2015:
+  Period 1: 10 pts
+  Period 2: 5 pts
+  Period 3: 28 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1570512 in season 2015:
+  Period 1: 6 pts
+  Period 2: 3 pts
+  Period 3: 21 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570519 in season 2015:
+  Period 1: 3 pts
+  Period 2: 13 pts
+  Period 3: 2 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1570522 in season 2015:
+  Period 1: 12 pts
+  Period 2: 8 pts
+  Period 3: 13 pts
+  Period 4: 1 pts
+
+Points scored by player 338365 in event 1570752 in season 2015:
+  Period 1: 2 pts
+  Period 2: 1 pts
+  Period 3: 11 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1570526 in season 2015:
+  Period 1: 3 pts
+  Period 2: 7 pts
+  Period 3: 8 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1570799 in season 2015:
+  Period 1: 5 pts
+  Period 2: 4 pts
+  Period 3: 17 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1570469 in season 2015:
+  Period 1: 21 pts
+  Period 2: 4 pts
+  Period 3: 10 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1570546 in season 2015:
+  Period 1: 5 pts
+  Period 2: 8 pts
+  Period 3: 11 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1570554 in season 2015:
+  Period 1: 9 pts
+  Period 2: 7 pts
+  Period 3: 11 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1571085 in season 2015:
+  Period 1: 3 pts
+  Period 2: 14 pts
+  Period 3: 10 pts
+  Period 4: 13 pts
+
+Points scored by player 338365 in event 1570562 in season 2015:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 8 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1571133 in season 2015:
+  Period 1: 7 pts
+  Period 2: 2 pts
+  Period 3: 10 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570569 in season 2015:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 14 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571353 in season 2015:
+  Period 1: 19 pts
+  Period 2: 8 pts
+  Period 3: 14 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570573 in season 2015:
+  Period 1: 17 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571185 in season 2015:
+  Period 1: 7 pts
+  Period 2: 0 pts
+  Period 3: 9 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1571417 in season 2015:
+  Period 1: 6 pts
+  Period 2: 6 pts
+  Period 3: 28 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570615 in season 2015:
+  Period 1: 16 pts
+  Period 2: 5 pts
+  Period 3: 8 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1570797 in season 2015:
+  Period 1: 7 pts
+  Period 2: 5 pts
+  Period 3: 16 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570996 in season 2015:
+  Period 1: 13 pts
+  Period 2: 3 pts
+  Period 3: 7 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1571149 in season 2015:
+  Period 1: 7 pts
+  Period 2: 8 pts
+  Period 3: 5 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1570603 in season 2015:
+  Period 1: 13 pts
+  Period 2: 4 pts
+  Period 3: 6 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1570576 in season 2015:
+  Period 1: 2 pts
+  Period 2: 10 pts
+  Period 3: 13 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570582 in season 2015:
+  Period 1: 12 pts
+  Period 2: 0 pts
+  Period 3: 4 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1570585 in season 2015:
+  Period 1: 9 pts
+  Period 2: 0 pts
+  Period 3: 4 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1570590 in season 2015:
+  Period 1: 8 pts
+  Period 2: 2 pts
+  Period 3: 5 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1570595 in season 2015:
+  Period 1: 0 pts
+  Period 2: 17 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570601 in season 2015:
+  Period 1: 2 pts
+  Period 2: 3 pts
+  Period 3: 0 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570604 in season 2015:
+  Period 1: 7 pts
+  Period 2: 7 pts
+  Period 3: 8 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1570884 in season 2015:
+  Period 1: 3 pts
+  Period 2: 8 pts
+  Period 3: 6 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571620 in season 2015:
+  Period 1: 9 pts
+  Period 2: 4 pts
+  Period 3: 13 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570891 in season 2015:
+  Period 1: 3 pts
+  Period 2: 16 pts
+  Period 3: 5 pts
+  Period 4: 14 pts
+
+Points scored by player 338365 in event 1570607 in season 2015:
+  Period 1: 11 pts
+  Period 2: 7 pts
+  Period 3: 4 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1571267 in season 2015:
+  Period 1: 5 pts
+  Period 2: 6 pts
+  Period 3: 7 pts
+  Period 4: 20 pts
+
+Points scored by player 338365 in event 1570613 in season 2015:
+  Period 1: 9 pts
+  Period 2: 6 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571255 in season 2015:
+  Period 1: 11 pts
+  Period 2: 4 pts
+  Period 3: 16 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1570642 in season 2015:
+  Period 1: 16 pts
+  Period 2: 5 pts
+  Period 3: 14 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570468 in season 2015:
+  Period 1: 10 pts
+  Period 2: 5 pts
+  Period 3: 7 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1570619 in season 2015:
+  Period 1: 7 pts
+  Period 2: 8 pts
+  Period 3: 12 pts
+  Period 4: 12 pts
+
+Points scored by player 338365 in event 1570623 in season 2015:
+  Period 1: 15 pts
+  Period 2: 4 pts
+  Period 3: 18 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570629 in season 2015:
+  Period 1: 1 pts
+  Period 2: 2 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571157 in season 2015:
+  Period 1: 8 pts
+  Period 2: 5 pts
+  Period 3: 2 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1571603 in season 2015:
+  Period 1: 8 pts
+  Period 2: 0 pts
+  Period 3: 2 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1571490 in season 2015:
+  Period 1: 25 pts
+  Period 2: 11 pts
+  Period 3: 8 pts
+  Period 4: 7 pts
+
+Points scored by player 338365 in event 1570635 in season 2015:
+  Period 1: 10 pts
+  Period 2: 4 pts
+  Period 3: 6 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1570640 in season 2015:
+  Period 1: 19 pts
+  Period 2: 7 pts
+  Period 3: 9 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571446 in season 2015:
+  Period 1: 12 pts
+  Period 2: 6 pts
+  Period 3: 8 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571675 in season 2015:
+  Period 1: 16 pts
+  Period 2: 8 pts
+  Period 3: 7 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571193 in season 2015:
+  Period 1: 7 pts
+  Period 2: 6 pts
+  Period 3: 7 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1571735 in season 2015:
+  Period 1: 10 pts
+  Period 2: 9 pts
+  Period 3: 8 pts
+  Period 4: 9 pts
+
+Points scored by player 338365 in event 1571002 in season 2015:
+  Period 1: 14 pts
+  Period 2: 4 pts
+  Period 3: 14 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1571415 in season 2015:
+  Period 1: 15 pts
+  Period 2: 7 pts
+  Period 3: 24 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1571674 in season 2015:
+  Period 1: 4 pts
+  Period 2: 11 pts
+  Period 3: 11 pts
+  Period 4: 8 pts
+
+Points scored by player 338365 in event 1570654 in season 2015:
+  Period 1: 10 pts
+  Period 2: 9 pts
+  Period 3: 3 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1570954 in season 2015:
+  Period 1: 10 pts
+  Period 2: 3 pts
+  Period 3: 3 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1570657 in season 2015:
+  Period 1: 11 pts
+  Period 2: 5 pts
+  Period 3: 14 pts
+  Period 4: 11 pts
+
+Points scored by player 338365 in event 1570662 in season 2015:
+  Period 1: 0 pts
+  Period 2: 9 pts
+  Period 3: 1 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1570670 in season 2015:
+  Period 1: 18 pts
+  Period 2: 5 pts
+  Period 3: 11 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570679 in season 2015:
+  Period 1: 13 pts
+  Period 2: 4 pts
+  Period 3: 3 pts
+  Period 4: 15 pts
+
+Points scored by player 338365 in event 1570717 in season 2015:
+  Period 1: 9 pts
+  Period 2: 3 pts
+  Period 3: 15 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570720 in season 2015:
+  Period 1: 16 pts
+  Period 2: 5 pts
+  Period 3: 13 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1571706 in season 2015:
+  Period 1: 14 pts
+  Period 2: 8 pts
+  Period 3: 4 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1570894 in season 2015:
+  Period 1: 2 pts
+  Period 2: 5 pts
+  Period 3: 7 pts
+  Period 4: 0 pts
+
+Points scored by player 338365 in event 1570632 in season 2015:
+  Period 1: 6 pts
+  Period 2: 4 pts
+  Period 3: 5 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1570725 in season 2015:
+  Period 1: 9 pts
+  Period 2: 5 pts
+  Period 3: 9 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1570731 in season 2015:
+  Period 1: 13 pts
+  Period 2: 9 pts
+  Period 3: 5 pts
+  Period 4: 6 pts
+
+Points scored by player 338365 in event 1570732 in season 2015:
+  Period 1: 3 pts
+  Period 2: 8 pts
+  Period 3: 7 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1570738 in season 2015:
+  Period 1: 10 pts
+  Period 2: 8 pts
+  Period 3: 3 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1571410 in season 2015:
+  Period 1: 7 pts
+  Period 2: 3 pts
+  Period 3: 12 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1570743 in season 2015:
+  Period 1: 3 pts
+  Period 2: 3 pts
+  Period 3: 21 pts
+  Period 4: 2 pts
+
+Points scored by player 338365 in event 1570749 in season 2015:
+  Period 1: 14 pts
+  Period 2: 6 pts
+  Period 3: 14 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1570755 in season 2015:
+  Period 1: 0 pts
+  Period 2: 2 pts
+  Period 3: 12 pts
+  Period 4: 4 pts
+
+Points scored by player 338365 in event 1570760 in season 2015:
+  Period 1: 4 pts
+  Period 2: 3 pts
+  Period 3: 15 pts
+  Period 4: 5 pts
+
+Points scored by player 338365 in event 1571014 in season 2015:
+  Period 1: 6 pts
+  Period 2: 0 pts
+  Period 3: 8 pts
+  Period 4: 3 pts
+
+Points scored by player 338365 in event 1570944 in season 2015:
+  Period 1: 7 pts
+  Period 2: 4 pts
+  Period 3: 16 pts
+  Period 4: 10 pts
+
+Points scored by player 338365 in event 1570763 in season 2015:
+  Period 1: 20 pts
+  Period 2: 5 pts
+  Period 3: 21 pts
+  Period 4: 0 pts
+
+Finished in 15 min 38 sec.

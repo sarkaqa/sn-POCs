@@ -1,0 +1,25 @@
+Player Stats Log
+==================================================
+
+==================================================
+Analyzing Free Throws Made for player 551768 in season 2011...
+==================================================
+✅ Season 2011: Longest streak = 32 made (Start: Event 1172638, Play 418 → End: Event 1173280, Play 227)
+✅ - 19 made (Start: Event 1173040, Play 494 → End: Event 1173056, Play 420)
+✅ - 12 made (Start: Event 1173056, Play 422 → End: Event 1172609, Play 381)
+✅ - 13 made (Start: Event 1172432, Play 361 → End: Event 1172908, Play 235)
+✅ - 12 made (Start: Event 1172687, Play 424 → End: Event 1172690, Play 399)
+✅ - 14 made (Start: Event 1172690, Play 411 → End: Event 1172950, Play 273)
+✅ - 19 made (Start: Event 1173349, Play 256 → End: Event 1173104, Play 403)
+
+==================================================
+Analyzing Free Throws Made for player 551768 in season 2012...
+==================================================
+✅ Season 2012: Longest streak = 22 made (Start: Event 1243182, Play 59 → End: Event 1242973, Play 215)
+✅ - 10 made (Start: Event 1243195, Play 184 → End: Event 1242427, Play 442)
+✅ - 14 made (Start: Event 1242521, Play 223 → End: Event 1242376, Play 53)
+✅ - 15 made (Start: Event 1242178, Play 380 → End: Event 1243166, Play 393)
+✅ - 21 made (Start: Event 1242443, Play 71 → End: Event 1242452, Play 452)
+✅ - 16 made (Start: Event 1242804, Play 12 → End: Event 1242492, Play 290)
+✅ - 18 made (Start: Event 1242501, Play 386 → End: Event 1242534, Play 298)
+✅ - 15 made (Start: Event 1243167, Play 324 → End: Event 1242594, Play 453)
