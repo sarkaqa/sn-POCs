@@ -1,0 +1,2478 @@
+2025-06-20 11:32:42 [INFO] Question: Which season had the highest points?
+2025-06-20 11:32:42 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:32:42 [INFO] Prompt ID: d00f7ccf-aafb-48d4-8089-fea3a5250bdb
+2025-06-20 11:32:42 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:32:42 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:32:42 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:32:42 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:32:42 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,60,2021-05-06
+2023,points,45,2024-12-28
+2020,points,48,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:32:42 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:32:44 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:32:44 [INFO] Retrying request to /chat/completions in 0.433879 seconds
+2025-06-20 11:32:45 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:32:45 [INFO] Retrying request to /chat/completions in 0.942884 seconds
+2025-06-20 11:32:47 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:32:47 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 11:35:38 [INFO] Question: Which season?
+2025-06-20 11:35:38 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:35:38 [INFO] Prompt ID: 8fb98677-60be-4f50-ab84-1f956fa32600
+2025-06-20 11:35:38 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:35:38 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:35:38 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:35:38 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:35:38 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,46,2024-04-07
+2024,points,45,2023-01-20
+2021,points,48,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:35:38 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:35:39 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:35:39 [INFO] Retrying request to /chat/completions in 0.386710 seconds
+2025-06-20 11:35:40 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:35:40 [INFO] Retrying request to /chat/completions in 0.970505 seconds
+2025-06-20 11:35:42 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:35:42 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 11:36:21 [INFO] Question: Which season?
+2025-06-20 11:36:21 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:36:21 [INFO] Prompt ID: 814bd237-899c-4441-8ca2-d0bbffff1bb0
+2025-06-20 11:36:21 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:36:21 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:36:21 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:36:21 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:36:21 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,45,2022-03-15
+2023,points,60,2023-01-20
+2021,points,46,2024-04-07
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:36:21 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:36:21 [INFO] Question: Which season?
+2025-06-20 11:36:21 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:36:21 [INFO] Prompt ID: 8b619f2e-d863-4caa-b33c-a60c61c248f5
+2025-06-20 11:36:21 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:36:21 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:36:21 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:36:21 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:36:21 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2024,points,46,2021-05-06
+2022,points,60,2024-04-07
+2023,points,48,2023-01-20
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:36:21 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:36:22 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:22 [INFO] Retrying request to /chat/completions in 0.391429 seconds
+2025-06-20 11:36:22 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:22 [INFO] Retrying request to /chat/completions in 0.477241 seconds
+2025-06-20 11:36:23 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:23 [INFO] Retrying request to /chat/completions in 0.990007 seconds
+2025-06-20 11:36:23 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:23 [INFO] Retrying request to /chat/completions in 0.919673 seconds
+2025-06-20 11:36:24 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:24 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 11:36:24 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:24 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 11:36:30 [INFO] Question: Which season?
+2025-06-20 11:36:30 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:36:30 [INFO] Prompt ID: afa8b016-39af-4676-968b-99a1a4360a05
+2025-06-20 11:36:30 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:36:30 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:36:30 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:36:30 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:36:30 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2024,points,46,2022-03-15
+2021,points,45,2023-01-20
+2020,points,48,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:36:30 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:36:31 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:31 [INFO] Retrying request to /chat/completions in 0.403067 seconds
+2025-06-20 11:36:31 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:31 [INFO] Retrying request to /chat/completions in 0.992452 seconds
+2025-06-20 11:36:32 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:32 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 11:36:47 [INFO] Question: Which season?
+2025-06-20 11:36:47 [INFO] Running PandasAI with openai LLM...
+2025-06-20 11:36:47 [INFO] Prompt ID: f53a7837-0cf0-43f4-b17b-49c9378cee99
+2025-06-20 11:36:47 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 11:36:47 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 11:36:47 [INFO] Executing Step 1: CacheLookup
+2025-06-20 11:36:47 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 11:36:47 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,60,2022-03-15
+2024,points,48,2024-04-07
+2023,points,46,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 11:36:47 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 11:36:48 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:48 [INFO] Retrying request to /chat/completions in 0.376314 seconds
+2025-06-20 11:36:49 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:49 [INFO] Retrying request to /chat/completions in 0.858725 seconds
+2025-06-20 11:36:50 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 11:36:50 [ERROR] Pipeline failed on step 3: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-20 16:19:05 [INFO] Question: Which season?
+2025-06-20 16:19:05 [INFO] Running PandasAI with local LLM...
+2025-06-20 16:19:05 [INFO] Prompt ID: f2b49a92-c88e-42a8-90c7-5ce92f621981
+2025-06-20 16:19:05 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 16:19:05 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 16:19:05 [INFO] Executing Step 1: CacheLookup
+2025-06-20 16:19:05 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 16:19:05 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 16:19:05 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 16:19:50 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 16:19:50 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 16:19:50 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+
+dfs = [pd.DataFrame({
+    'season', 'stat', 'value', 'date'
+}, [
+    ['2021', 'points', 60, '2022-03-15'],
+    ['2020', 'points', 45, '2021-05-06']
+])]
+
+# Find the season with the highest points
+max_points = dfs[0]['value'].max()
+result = {
+    "type": "string",
+    "value": f"The highest points are in the {dfs[0][dfs[0]['value'] == max_points]['season'].values[0]} season."
+}
+
+print(result)
+            ```
+            
+2025-06-20 16:19:50 [INFO] Executing Step 4: CachePopulation
+2025-06-20 16:19:50 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 16:19:50 [INFO] 
+Code running:
+```
+max_points = dfs[0]['value'].max()
+result = {'type': 'string', 'value': f"The highest points are in the {dfs[0][dfs[0]['value'] == max_points]['season'].values[0]} season."}
+print(result)
+        ```
+2025-06-20 16:19:50 [INFO] Executing Step 6: CodeExecution
+2025-06-20 16:19:50 [INFO] Executing Step 7: ResultValidation
+2025-06-20 16:19:50 [INFO] Answer: {'type': 'string', 'value': 'The highest points are in the 2021 season.'}
+2025-06-20 16:19:50 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:02:31 [INFO] Question: lowest points?
+2025-06-20 19:02:31 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:02:31 [INFO] Prompt ID: 41b1ff29-d54b-4d97-8707-88bc3d37c409
+2025-06-20 19:02:31 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:02:31 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:02:31 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:02:31 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:02:31 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ lowest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:02:31 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:03:13 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:03:13 [ERROR] Pipeline failed on step 3: No code found in the response
+2025-06-20 19:04:10 [INFO] Question: highest points?
+2025-06-20 19:04:10 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:04:10 [INFO] Prompt ID: 84175ba3-14fb-4008-a637-73324c6d2ac9
+2025-06-20 19:04:10 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:04:10 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:04:10 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:04:10 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:04:10 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ highest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:04:10 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:04:30 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:04:30 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ highest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:04:30 [INFO] Code generated:
+            ```
+            # Import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Initialize the result variable
+result = {}
+
+# Find the highest points
+highest_value = dfs[0]['value'].max()
+
+# Update the result variable with the type and value
+result = {"type": "number", "value": highest_value}
+
+if True: # assuming that you want to plot a chart for highest points, set this condition as per your requirement
+    plt.figure(figsize=(8, 6))
+    plt.bar(dfs[0]['season'], dfs[0]['value'])
+    plt.title('Highest Points per Season')
+    plt.xlabel('Season')
+    plt.ylabel('Points')
+    result = {"type": "plot", "value": "highest_points.png"}
+            ```
+            
+2025-06-20 19:04:30 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:04:30 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:04:30 [INFO] Saving charts to /Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png
+2025-06-20 19:04:30 [INFO] 
+Code running:
+```
+result = {}
+highest_value = dfs[0]['value'].max()
+result = {'type': 'number', 'value': highest_value}
+if True:
+    plt.figure(figsize=(8, 6))
+    plt.bar(dfs[0]['season'], dfs[0]['value'])
+    plt.title('Highest Points per Season')
+    plt.xlabel('Season')
+    plt.ylabel('Points')
+    result = {'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'}
+        ```
+2025-06-20 19:04:30 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:04:30 [ERROR] Pipeline failed on step 6: [Errno 2] No such file or directory: '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'
+2025-06-20 19:05:03 [INFO] Question: highest points?
+2025-06-20 19:05:03 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:05:03 [INFO] Prompt ID: b79ea04d-2626-4b18-ac5e-2928df747167
+2025-06-20 19:05:03 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:05:03 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:05:03 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:05:03 [INFO] Using cached response
+2025-06-20 19:05:03 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:05:03 [INFO] Executing Step 2: Skipping...
+2025-06-20 19:05:03 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:05:03 [INFO] Executing Step 3: Skipping...
+2025-06-20 19:05:03 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:05:03 [INFO] Executing Step 4: Skipping...
+2025-06-20 19:05:03 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:05:03 [INFO] Saving charts to /Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png
+2025-06-20 19:05:03 [INFO] 
+Code running:
+```
+result = {}
+highest_value = dfs[0]['value'].max()
+result = {'type': 'number', 'value': highest_value}
+if True:
+    plt.figure(figsize=(8, 6))
+    plt.bar(dfs[0]['season'], dfs[0]['value'])
+    plt.title('Highest Points per Season')
+    plt.xlabel('Season')
+    plt.ylabel('Points')
+    result = {'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'}
+        ```
+2025-06-20 19:05:03 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:05:03 [ERROR] Pipeline failed on step 6: [Errno 2] No such file or directory: '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'
+2025-06-20 19:05:12 [INFO] Question: Which season?
+2025-06-20 19:05:12 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:05:12 [INFO] Prompt ID: c7eea0e0-56f0-420c-96f3-5ccff4778439
+2025-06-20 19:05:12 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:05:12 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:05:12 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:05:12 [INFO] Using cached response
+2025-06-20 19:05:12 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:05:12 [INFO] Executing Step 2: Skipping...
+2025-06-20 19:05:12 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:05:12 [INFO] Executing Step 3: Skipping...
+2025-06-20 19:05:12 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:05:12 [INFO] Executing Step 4: Skipping...
+2025-06-20 19:05:12 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:05:12 [INFO] 
+Code running:
+```
+max_points = dfs[0]['value'].max()
+result = {'type': 'string', 'value': f"The highest points are in the {dfs[0][dfs[0]['value'] == max_points]['season'].values[0]} season."}
+print(result)
+        ```
+2025-06-20 19:05:12 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:05:12 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:05:12 [INFO] Answer: {'type': 'string', 'value': 'The highest points are in the 2021 season.'}
+2025-06-20 19:05:12 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:05:27 [INFO] Question: which?
+2025-06-20 19:05:27 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:05:27 [INFO] Prompt ID: 437b9be9-1246-4406-8a33-1c2b78d7a3b9
+2025-06-20 19:05:27 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:05:27 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:05:27 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:05:27 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:05:27 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:05:27 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:05:53 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:05:53 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ which?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:05:53 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Load dataframes into list 'dfs'
+dfs = [pd.DataFrame({
+    "season": ["2021", "2020"],
+    "stat": ["points", "points"],
+    "value": [60, 45],
+    "date": ["2022-03-15", "2021-05-06"]
+})]
+
+# Extract first dataframe from the list
+df = dfs[0]
+result = {}
+
+# Which season has the most points?
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({
+    "type": "string",
+    "value": f"The season with the most points is {max_points_stat['season']} with {max_points_stat['value']} points."
+})
+
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title("Points by Season")
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({
+    "type": "plot",
+    "value": 'temp_chart.png'
+})
+
+print(result)
+            ```
+            
+2025-06-20 19:05:53 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:05:53 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:05:53 [INFO] Saving charts to /Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png
+2025-06-20 19:05:53 [INFO] 
+Code running:
+```
+df = dfs[0]
+result = {}
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({'type': 'string', 'value': f"The season with the most points is {max_points_stat['season']} with {max_points_stat['value']} points."})
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title('Points by Season')
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'})
+print(result)
+        ```
+2025-06-20 19:05:53 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:05:53 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 4, in <module>
+NameError: name 'max_points_stat' is not defined
+
+2025-06-20 19:05:53 [WARNING] Failed to execute code retrying with a correction framework [retry number: 1]
+2025-06-20 19:05:53 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:05:53 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:05:53 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ which?
+
+You generated this python code:
+df = dfs[0]
+result = {}
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({'type': 'string', 'value': f"The season with the most points is {max_points_stat['season']} with {max_points_stat['value']} points."})
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title('Points by Season')
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'})
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 4, in <module>
+NameError: name 'max_points_stat' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:05:53 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:06:07 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:06:07 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ which?
+
+You generated this python code:
+df = dfs[0]
+result = {}
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({'type': 'string', 'value': f"The season with the most points is {max_points_stat['season']} with {max_points_stat['value']} points."})
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title('Points by Season')
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'})
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 4, in <module>
+NameError: name 'max_points_stat' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:06:07 [INFO] Code generated:
+            ```
+            df = dfs[0]
+result = {}
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({'type': 'string', 'value': f"The season with the most points is {max_points_season['season']} with {max_points_season['value']} points."})
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title('Points by Season')
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'})
+print(result)
+            ```
+            
+2025-06-20 19:06:07 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:06:07 [INFO] Saving charts to /Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png
+2025-06-20 19:06:07 [INFO] 
+Code running:
+```
+df = dfs[0]
+result = {}
+max_points_season = df.loc[df['value'].idxmax()]
+result.update({'type': 'string', 'value': f"The season with the most points is {max_points_season['season']} with {max_points_season['value']} points."})
+plt.figure(figsize=(10, 5))
+df.plot(kind='bar', x='season', y='value')
+plt.title('Points by Season')
+plt.xlabel('Seasons')
+plt.ylabel('Points')
+result.update({'type': 'plot', 'value': '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'})
+print(result)
+        ```
+2025-06-20 19:06:07 [ERROR] Pipeline failed on step 6: [Errno 2] No such file or directory: '/Users/sarkanetkova/git_repo_POC/sn-POC/exports/charts/temp_chart.png'
+2025-06-20 19:06:25 [INFO] Question: Which season had the highest points?
+2025-06-20 19:06:25 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:06:25 [INFO] Prompt ID: bb94bf42-6201-4b5b-b89c-ab281791dec5
+2025-06-20 19:06:25 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:06:25 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:06:25 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:06:25 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:06:25 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:06:25 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:06:41 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:06:41 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest points?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:06:41 [INFO] Code generated:
+            ```
+            Python
+# TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Write code here
+
+dfs = [pd.DataFrame({
+    'season': ['2021', '2020'],
+    'stat': ['points'], 
+    'value': [60, 45], 
+    'date': ['2022-03-15', '2021-05-06']
+})]
+
+# Determine the season with the highest points
+max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+
+result = {
+    "type": "string",
+    "value": f"The season with the highest points is {season_max_points} with {max_points} points."
+}
+
+print(result)
+            ```
+            
+2025-06-20 19:06:41 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:06:41 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:06:41 [INFO] 
+Code running:
+```
+Python
+max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+result = {'type': 'string', 'value': f'The season with the highest points is {season_max_points} with {max_points} points.'}
+print(result)
+        ```
+2025-06-20 19:06:41 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:06:41 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+2025-06-20 19:06:41 [WARNING] Failed to execute code retrying with a correction framework [retry number: 1]
+2025-06-20 19:06:41 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:06:41 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:06:41 [INFO] Using prompt: <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest points?
+
+You generated this python code:
+Python
+max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+result = {'type': 'string', 'value': f'The season with the highest points is {season_max_points} with {max_points} points.'}
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:06:41 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:06:50 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:06:50 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:2x4
+season,stat,value,date
+2021,points,60,2022-03-15
+2020,points,45,2021-05-06
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest points?
+
+You generated this python code:
+Python
+max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+result = {'type': 'string', 'value': f'The season with the highest points is {season_max_points} with {max_points} points.'}
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:06:50 [INFO] Code generated:
+            ```
+            max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+result = {'type': 'string', 'value': f'The season with the highest points is {season_max_points} with {max_points} points.'}
+print(result)
+            ```
+            
+2025-06-20 19:06:50 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:06:50 [INFO] 
+Code running:
+```
+max_points = dfs[0]['value'].max()
+season_max_points = dfs[0][dfs[0]['value'] == max_points]['season'].values[0]
+result = {'type': 'string', 'value': f'The season with the highest points is {season_max_points} with {max_points} points.'}
+print(result)
+        ```
+2025-06-20 19:06:50 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:06:50 [INFO] Answer: {'type': 'string', 'value': 'The season with the highest points is 2021 with 60 points.'}
+2025-06-20 19:06:50 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:39:41 [INFO] Question: give me highest points in season
+2025-06-20 19:39:41 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:39:41 [INFO] Prompt ID: 6d49a5ef-720c-4f07-b360-0a21b956426f
+2025-06-20 19:39:41 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:39:41 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:39:41 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:39:41 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:39:41 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,46,2024-12-28
+2020,points,45,2022-03-15
+2024,points,60,2024-04-07
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ give me highest points in season
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:39:41 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:40:16 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:40:16 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,46,2024-12-28
+2020,points,45,2022-03-15
+2024,points,60,2024-04-07
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ give me highest points in season
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:40:16 [INFO] Code generated:
+            ```
+            Python
+# TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Initialize dfs (DataFrames) if not provided
+dfs = []  # Declare this initially
+
+df = pd.DataFrame({
+    "season": ["2022", "2020", "2024"],
+    "stat": ["points", "points", "points"],
+    "value": [46, 45, 60],
+    "date": ["2024-12-28", "2022-03-15", "2024-04-07"]
+})
+
+dfs.append(df)
+
+# Declare result var: 
+result = {
+    "type": "number",
+    "value": dfs[0]["value"].max()
+}
+
+print(result)
+
+
+# Plot a bar chart using matplotlib
+plt.figure(figsize=(10, 5))
+plt.bar(dfs[0].season, dfs[0].value)
+plt.xlabel('Season')
+plt.ylabel('Points')
+plt.title('Highest Points in Season')
+plt.savefig("highest_points_in_season.png")
+
+result = {
+    "type": "plot",
+    "value": "highest_points_in_season.png"
+}
+
+print(result)
+            ```
+            
+2025-06-20 19:40:16 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:40:16 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:40:16 [INFO] Saving charts to 6d49a5ef-720c-4f07-b360-0a21b956426f.png
+2025-06-20 19:40:16 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:40:16 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:40:16 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,46,2024-12-28
+2020,points,45,2022-03-15
+2024,points,60,2024-04-07
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ give me highest points in season
+
+You generated this python code:
+Python
+# TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Initialize dfs (DataFrames) if not provided
+dfs = []  # Declare this initially
+
+df = pd.DataFrame({
+    "season": ["2022", "2020", "2024"],
+    "stat": ["points", "points", "points"],
+    "value": [46, 45, 60],
+    "date": ["2024-12-28", "2022-03-15", "2024-04-07"]
+})
+
+dfs.append(df)
+
+# Declare result var: 
+result = {
+    "type": "number",
+    "value": dfs[0]["value"].max()
+}
+
+print(result)
+
+
+# Plot a bar chart using matplotlib
+plt.figure(figsize=(10, 5))
+plt.bar(dfs[0].season, dfs[0].value)
+plt.xlabel('Season')
+plt.ylabel('Points')
+plt.title('Highest Points in Season')
+plt.savefig("highest_points_in_season.png")
+
+result = {
+    "type": "plot",
+    "value": "highest_points_in_season.png"
+}
+
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 95, in execute
+    code_to_run = self.get_code_to_run(input, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 152, in get_code_to_run
+    code_to_run = self._clean_code(code, context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 524, in _clean_code
+    self._extract_fix_dataframe_redeclarations(
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 429, in _extract_fix_dataframe_redeclarations
+    exec(code, env)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:40:16 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:40:31 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:40:31 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2022,points,46,2024-12-28
+2020,points,45,2022-03-15
+2024,points,60,2024-04-07
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ give me highest points in season
+
+You generated this python code:
+Python
+# TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Initialize dfs (DataFrames) if not provided
+dfs = []  # Declare this initially
+
+df = pd.DataFrame({
+    "season": ["2022", "2020", "2024"],
+    "stat": ["points", "points", "points"],
+    "value": [46, 45, 60],
+    "date": ["2024-12-28", "2022-03-15", "2024-04-07"]
+})
+
+dfs.append(df)
+
+# Declare result var: 
+result = {
+    "type": "number",
+    "value": dfs[0]["value"].max()
+}
+
+print(result)
+
+
+# Plot a bar chart using matplotlib
+plt.figure(figsize=(10, 5))
+plt.bar(dfs[0].season, dfs[0].value)
+plt.xlabel('Season')
+plt.ylabel('Points')
+plt.title('Highest Points in Season')
+plt.savefig("highest_points_in_season.png")
+
+result = {
+    "type": "plot",
+    "value": "highest_points_in_season.png"
+}
+
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 95, in execute
+    code_to_run = self.get_code_to_run(input, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 152, in get_code_to_run
+    code_to_run = self._clean_code(code, context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 524, in _clean_code
+    self._extract_fix_dataframe_redeclarations(
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_cleaning.py", line 429, in _extract_fix_dataframe_redeclarations
+    exec(code, env)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:40:31 [INFO] Code generated:
+            ```
+            Python
+import pandas as pd
+
+# Initialize dfs (DataFrames) if not provided
+dfs = []  # Declare this initially
+
+df = pd.DataFrame({
+    "season": ["2022", "2020", "2024"],
+    "stat": ["points", "points", "points"],
+    "value": [46, 45, 60],
+    "date": ["2024-12-28", "2022-03-15", "2024-04-07"]
+})
+
+dfs.append(df)
+
+# Declare result var: 
+result = df['value'].max()
+
+print("The highest points in season is:", result)
+            ```
+            
+2025-06-20 19:40:31 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:40:31 [ERROR] Pipeline failed on step 2: name 'Python' is not defined
+2025-06-20 19:40:31 [ERROR] Pipeline failed on step 5: name 'Python' is not defined
+2025-06-20 19:41:00 [INFO] Question: Which season had the lowest value?
+2025-06-20 19:41:00 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:41:00 [INFO] Prompt ID: 6a73d01f-85cc-4f7d-a972-a1f1fa6451f3
+2025-06-20 19:41:00 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:41:00 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:41:00 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:41:00 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:41:00 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2024,points,60,2022-03-15
+2021,points,48,2021-05-06
+2023,points,45,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the lowest value?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:41:00 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:41:17 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:41:17 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2024,points,60,2022-03-15
+2021,points,48,2021-05-06
+2023,points,45,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the lowest value?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:41:17 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Initialize result variable
+result = {}
+
+# Combine all dataframes into one
+df = dfs[0]
+
+# Get the lowest value (in this case, it's 45)
+lowest_value = df['value'].min()
+
+# Get season with the lowest value
+season_with_lowest_value = df.loc[df['value'].idxmin()]
+
+# Write result
+result = {"type": "string", "value": f"The season {season_with_lowest_value['season']} had the lowest value of {lowest_value}."}
+
+print(result)
+
+# Plot a chart if needed (in this case, no need)
+            ```
+            
+2025-06-20 19:41:17 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:41:17 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:41:17 [INFO] 
+Code running:
+```
+result = {}
+df = dfs[0]
+lowest_value = df['value'].min()
+season_with_lowest_value = df.loc[df['value'].idxmin()]
+result = {'type': 'string', 'value': f"The season {season_with_lowest_value['season']} had the lowest value of {lowest_value}."}
+print(result)
+        ```
+2025-06-20 19:41:17 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:41:17 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:41:17 [INFO] Answer: {'type': 'string', 'value': 'The season 2020 had the lowest value of 45.'}
+2025-06-20 19:41:17 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:42:51 [INFO] Question: Which season had the highest value?
+2025-06-20 19:42:51 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:42:51 [INFO] Prompt ID: 80444b6b-82b7-486a-b61f-e315631b0878
+2025-06-20 19:42:51 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:42:51 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:42:51 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:42:51 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:42:51 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest value?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:42:51 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:43:16 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:43:16 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest value?
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:43:16 [INFO] Code generated:
+            ```
+            Python
+import pandas as pd
+import numpy as np
+
+# Initialize an empty list to store DataFrames
+dfs = []
+
+# Add data to dfs
+dfs.append(pd.DataFrame({
+    'season': ['2023', '2020', '2024'],
+    'stat': ['points', 'points', 'points'],
+    'value': [48, 45, 60],
+    'date': ['2022-03-15', '2023-01-20', '2024-12-28']
+}))
+
+# Assuming the correct DataFrame is stored in dfs[0]
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {"type": "string", "value": f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}.",}
+            ```
+            
+2025-06-20 19:43:16 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:43:16 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:43:16 [INFO] 
+Code running:
+```
+Python
+dfs.append(pd.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+        ```
+2025-06-20 19:43:16 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:43:16 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+2025-06-20 19:43:16 [WARNING] Failed to execute code retrying with a correction framework [retry number: 1]
+2025-06-20 19:43:16 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:43:16 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:43:16 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+Python
+dfs.append(pd.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:43:16 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:43:30 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:43:30 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+Python
+dfs.append(pd.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:43:30 [INFO] Code generated:
+            ```
+            import pandas as pd
+
+dfs = []
+dfs.append(pyhton.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+            ```
+            
+2025-06-20 19:43:30 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:43:30 [INFO] 
+Code running:
+```
+dfs.append(pyhton.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+        ```
+2025-06-20 19:43:30 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'pyhton' is not defined
+
+2025-06-20 19:43:30 [WARNING] Failed to execute code retrying with a correction framework [retry number: 2]
+2025-06-20 19:43:30 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:43:30 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:43:30 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+dfs.append(pyhton.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'pyhton' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:43:30 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:43:43 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:43:43 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+dfs.append(pyhton.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']}))
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'pyhton' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:43:43 [INFO] Code generated:
+            ```
+            dfs = pd.DataFrame({'season': ['2023', '2020', '2024'], 'stat': ['points', 'points', 'points'], 'value': [48, 45, 60], 'date': ['2022-03-15', '2023-01-20', '2024-12-28']})
+highest_value_row = dfs.loc[dfs['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+            ```
+            
+2025-06-20 19:43:43 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:43:43 [INFO] 
+Code running:
+```
+highest_value_row = dfs.loc[dfs['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+        ```
+2025-06-20 19:43:43 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+AttributeError: 'list' object has no attribute 'loc'
+
+2025-06-20 19:43:43 [WARNING] Failed to execute code retrying with a correction framework [retry number: 3]
+2025-06-20 19:43:43 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:43:43 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:43:43 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+highest_value_row = dfs.loc[dfs['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+AttributeError: 'list' object has no attribute 'loc'
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:43:43 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:43:51 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:43:51 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2023,points,48,2022-03-15
+2020,points,45,2023-01-20
+2024,points,60,2024-12-28
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value?
+
+You generated this python code:
+highest_value_row = dfs.loc[dfs['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+AttributeError: 'list' object has no attribute 'loc'
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:43:51 [INFO] Code generated:
+            ```
+            dfs = [dfs[0]]  # assuming dfs contains a list of dataframes, select the first one
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+            ```
+            
+2025-06-20 19:43:51 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:43:51 [INFO] 
+Code running:
+```
+highest_value_row = dfs[0].loc[dfs[0]['value'].idxmax()]
+result = {'type': 'string', 'value': f"The highest value is {highest_value_row['value']} found in season {highest_value_row['season']}."}
+        ```
+2025-06-20 19:43:51 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:43:51 [INFO] Answer: {'type': 'string', 'value': 'The highest value is 60 found in season 2021.'}
+2025-06-20 19:43:51 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:44:14 [INFO] Question: Which season had the highest value? and give me the date
+2025-06-20 19:44:14 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:44:14 [INFO] Prompt ID: 0be850d8-2dab-49ff-b72b-854a92a6f892
+2025-06-20 19:44:14 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:44:14 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:44:14 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:44:14 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:44:14 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,48,2024-04-07
+2023,points,60,2023-01-20
+2021,points,46,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest value? and give me the date
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:44:14 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:44:42 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:44:42 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,48,2024-04-07
+2023,points,60,2023-01-20
+2021,points,46,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Which season had the highest value? and give me the date
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:44:42 [INFO] Code generated:
+            ```
+            Python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Initialize a list of dataframes
+dfs = [pd.DataFrame({
+    'season': ['2020', '2023', '2021'],
+    'stat': ['points', 'points', 'points'],
+    'value': [48, 60, 46],
+    'date': ['2024-04-07', '2023-01-20', '2022-03-15']
+})]
+
+# Find the season with the highest value
+max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_seasson_date = (max_value_df['season'].iloc[0], max_value_df['date'].iloc[0])
+
+# Declare result var    
+result = {
+    "type": "string",
+    "value": f"The season with the highest value {max_value_seasson_date[0]} on date {max_value_seasson_date[1]}."
+}
+
+print(result)
+            ```
+            
+2025-06-20 19:44:42 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:44:42 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:44:42 [INFO] 
+Code running:
+```
+Python
+max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_seasson_date = max_value_df['season'].iloc[0], max_value_df['date'].iloc[0]
+result = {'type': 'string', 'value': f'The season with the highest value {max_value_seasson_date[0]} on date {max_value_seasson_date[1]}.'}
+print(result)
+        ```
+2025-06-20 19:44:42 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:44:42 [ERROR] Failed with error: Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+2025-06-20 19:44:42 [WARNING] Failed to execute code retrying with a correction framework [retry number: 1]
+2025-06-20 19:44:42 [INFO] Executing Pipeline: ErrorCorrectionPipeline
+2025-06-20 19:44:42 [INFO] Executing Step 0: ErrorPromptGeneration
+2025-06-20 19:44:42 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,48,2024-04-07
+2023,points,60,2023-01-20
+2021,points,46,2022-03-15
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value? and give me the date
+
+You generated this python code:
+Python
+max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_seasson_date = max_value_df['season'].iloc[0], max_value_df['date'].iloc[0]
+result = {'type': 'string', 'value': f'The season with the highest value {max_value_seasson_date[0]} on date {max_value_seasson_date[1]}.'}
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+2025-06-20 19:44:42 [INFO] Executing Step 1: CodeGenerator
+2025-06-20 19:44:54 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:44:54 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,48,2024-04-07
+2023,points,60,2023-01-20
+2021,points,46,2022-03-15
+</dataframe>
+
+
+The user asked the following question:
+### QUERY
+ Which season had the highest value? and give me the date
+
+You generated this python code:
+Python
+max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_seasson_date = max_value_df['season'].iloc[0], max_value_df['date'].iloc[0]
+result = {'type': 'string', 'value': f'The season with the highest value {max_value_seasson_date[0]} on date {max_value_seasson_date[1]}.'}
+print(result)
+
+It fails with the following error:
+Traceback (most recent call last):
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 85, in execute
+    result = self.execute_code(code_to_run, code_context)
+  File "/Users/sarkanetkova/git_repo_POC/sn-POC/venv/lib/python3.9/site-packages/pandasai/pipelines/chat/code_execution.py", line 171, in execute_code
+    exec(code, environment)
+  File "<string>", line 1, in <module>
+NameError: name 'Python' is not defined
+
+
+Fix the python code above and return the new python code:
+            
+2025-06-20 19:44:54 [INFO] Code generated:
+            ```
+            max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_season_date = (max_value_df['season'].iloc[0], max_value_df['date'].iloc[0])
+result = {'type': 'string', 'value': f'The season with the highest value {max_value_season_date[0]} on date {max_value_season_date[1]}.'}
+print(result)
+            ```
+            
+2025-06-20 19:44:54 [INFO] Executing Step 2: CodeCleaning
+2025-06-20 19:44:54 [INFO] 
+Code running:
+```
+max_value_df = dfs[0][dfs[0]['value'] == dfs[0]['value'].max()]
+max_value_season_date = max_value_df['season'].iloc[0], max_value_df['date'].iloc[0]
+result = {'type': 'string', 'value': f'The season with the highest value {max_value_season_date[0]} on date {max_value_season_date[1]}.'}
+print(result)
+        ```
+2025-06-20 19:44:54 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:44:54 [INFO] Answer: {'type': 'string', 'value': 'The season with the highest value 2021 on date 2022-03-15.'}
+2025-06-20 19:44:54 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:45:26 [INFO] Question: Plot value over time
+2025-06-20 19:45:26 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:45:26 [INFO] Prompt ID: 00e713a6-5331-4b87-b01f-95fb0ef60615
+2025-06-20 19:45:26 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:45:26 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:45:26 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:45:26 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:45:26 [INFO] Using prompt: <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,46,2021-05-06
+2024,points,60,2024-04-07
+2023,points,45,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Plot value over time
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:45:26 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:45:41 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:45:41 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:5x4
+season,stat,value,date
+2020,points,46,2021-05-06
+2024,points,60,2024-04-07
+2023,points,45,2022-03-15
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Plot value over time
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:45:41 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+dfs = [{}, {'season': ['2020', '2024', '2023'],
+            'stat': ['points'], 
+            'value': [46, 60, 45], 
+            'date': ['2021-05-06', '2024-04-07', '2022-03-15']}]
+
+# Plot value over time
+result = {"type": "plot", "value": "temp_chart.png"}
+fig, ax = plt.subplots()
+ax.plot(dfs[0]['date'], dfs[0]['value'])
+plt.xlabel('Date')
+plt.ylabel('Points')
+plt.title('Points Over Time')
+plt.savefig("temp_chart.png")
+            ```
+            
+2025-06-20 19:45:41 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:45:41 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:45:41 [INFO] Saving charts to 00e713a6-5331-4b87-b01f-95fb0ef60615.png
+2025-06-20 19:45:41 [INFO] 
+Code running:
+```
+result = {'type': 'plot', 'value': '00e713a6-5331-4b87-b01f-95fb0ef60615.png'}
+fig, ax = plt.subplots()
+ax.plot(dfs[0]['date'], dfs[0]['value'])
+plt.xlabel('Date')
+plt.ylabel('Points')
+plt.title('Points Over Time')
+plt.savefig('00e713a6-5331-4b87-b01f-95fb0ef60615.png')
+        ```
+2025-06-20 19:45:41 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:45:41 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:45:41 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:45:42 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:45:42 [INFO] Answer: {'type': 'plot', 'value': '00e713a6-5331-4b87-b01f-95fb0ef60615.png'}
+2025-06-20 19:45:42 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:47:04 [INFO] Question: Plot value over time
+2025-06-20 19:47:04 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:47:04 [INFO] Prompt ID: 66bc96cf-6acf-40ec-9406-ff74a7ce6dba
+2025-06-20 19:47:04 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:47:04 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:47:04 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:47:04 [INFO] Using cached response
+2025-06-20 19:47:04 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:47:04 [INFO] Executing Step 2: Skipping...
+2025-06-20 19:47:04 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:47:04 [INFO] Executing Step 3: Skipping...
+2025-06-20 19:47:04 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:47:04 [INFO] Executing Step 4: Skipping...
+2025-06-20 19:47:04 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:47:04 [INFO] Saving charts to 66bc96cf-6acf-40ec-9406-ff74a7ce6dba.png
+2025-06-20 19:47:04 [INFO] 
+Code running:
+```
+result = {'type': 'plot', 'value': '66bc96cf-6acf-40ec-9406-ff74a7ce6dba.png'}
+fig, ax = plt.subplots()
+ax.plot(dfs[0]['date'], dfs[0]['value'])
+plt.xlabel('Date')
+plt.ylabel('Points')
+plt.title('Points Over Time')
+plt.savefig('66bc96cf-6acf-40ec-9406-ff74a7ce6dba.png')
+        ```
+2025-06-20 19:47:04 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:47:04 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:47:04 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:47:04 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:47:04 [INFO] Answer: {'type': 'plot', 'value': '66bc96cf-6acf-40ec-9406-ff74a7ce6dba.png'}
+2025-06-20 19:47:04 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:47:25 [INFO] Question: Plot value over time
+2025-06-20 19:47:25 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:47:25 [INFO] Prompt ID: 18ca67d8-5cd6-4eae-81e5-c922dc97618f
+2025-06-20 19:47:25 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:47:25 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:47:25 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:47:25 [INFO] Using cached response
+2025-06-20 19:47:25 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:47:25 [INFO] Executing Step 2: Skipping...
+2025-06-20 19:47:25 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:47:25 [INFO] Executing Step 3: Skipping...
+2025-06-20 19:47:25 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:47:25 [INFO] Executing Step 4: Skipping...
+2025-06-20 19:47:25 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:47:25 [INFO] Saving charts to 18ca67d8-5cd6-4eae-81e5-c922dc97618f.png
+2025-06-20 19:47:25 [INFO] 
+Code running:
+```
+result = {'type': 'plot', 'value': '18ca67d8-5cd6-4eae-81e5-c922dc97618f.png'}
+fig, ax = plt.subplots()
+ax.plot(dfs[0]['date'], dfs[0]['value'])
+plt.xlabel('Date')
+plt.ylabel('Points')
+plt.title('Points Over Time')
+plt.savefig('18ca67d8-5cd6-4eae-81e5-c922dc97618f.png')
+        ```
+2025-06-20 19:47:25 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:47:25 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:47:25 [INFO] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 19:47:25 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:47:25 [INFO] Answer: {'type': 'plot', 'value': '18ca67d8-5cd6-4eae-81e5-c922dc97618f.png'}
+2025-06-20 19:47:25 [INFO] Executing Step 8: ResultParsing
+2025-06-20 19:55:01 [INFO] Question: plot values 2021 and 2023
+2025-06-20 19:55:01 [INFO] Running PandasAI with local LLM...
+2025-06-20 19:55:01 [INFO] Prompt ID: 8c3da06f-c532-4edf-ac8b-da67b8b8b196
+2025-06-20 19:55:01 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-06-20 19:55:01 [INFO] Executing Step 0: ValidatePipelineInput
+2025-06-20 19:55:01 [INFO] Executing Step 1: CacheLookup
+2025-06-20 19:55:01 [INFO] Executing Step 2: PromptGeneration
+2025-06-20 19:55:01 [INFO] Using prompt: <dataframe>
+dfs[0]:11x4
+season,stat,value,date
+2021,blockedShots,3,2025-02-08
+2024,blockedShots,4,2024-04-09
+2023,blockedShots,2,2022-10-27
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ plot values 2021 and 2023
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+2025-06-20 19:55:01 [INFO] Executing Step 3: CodeGenerator
+2025-06-20 19:55:31 [INFO] HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 19:55:31 [INFO] Prompt used:
+            <dataframe>
+dfs[0]:11x4
+season,stat,value,date
+2021,blockedShots,3,2025-02-08
+2024,blockedShots,4,2024-04-09
+2023,blockedShots,2,2022-10-27
+</dataframe>
+
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ plot values 2021 and 2023
+
+Variable `dfs: list[pd.DataFrame]` is already declared.
+
+At the end, declare "result" variable as a dictionary of type and value.
+
+If you are asked to plot a chart, use "matplotlib" for charts, save as png.
+
+
+Generate python code and return full updated code:
+            
+2025-06-20 19:55:31 [INFO] Code generated:
+            ```
+            # TODO: import the required dependencies
+import pandas as pd
+import matplotlib.pyplot as plt
+
+dfs = [...];  # your dataframes go here
+
+# Filter the dataframes for 2021 and 2023 seasons
+filtered_dfs = [df for df in dfs if '2021' in str(df) or '2023' in str(df)]
+
+# Extract the season, stat, and value columns from the filtered dataframes
+season_stats_values = []
+for df in filtered_dfs:
+    season_stats_values.extend(list(zip(df['season'].values, df['stat'].values, df['value'].values)))
+
+# Convert the season_stats_values list into a pandas dataframe
+result_df = pd.DataFrame(season_stats_values, columns=['season', 'stat', 'value'])
+
+# Plot the values for 2021 and 2023
+plt.figure(figsize=(8,6))
+for stat in result_df['stat'].unique():
+    df_stat = result_df[result_df['stat'] == stat]
+    plt.plot(df_stat['season'], df_stat['value'], label=stat)
+
+plt.xlabel('Season')
+plt.ylabel('Values')
+plt.title('2021 and 2023 Values by Statistic')
+plt.legend()
+plt.savefig('temp_chart.png')
+
+# Define the result variable
+result = {"type": "plot", "value": "temp_chart.png"}
+            ```
+            
+2025-06-20 19:55:31 [INFO] Executing Step 4: CachePopulation
+2025-06-20 19:55:32 [INFO] Executing Step 5: CodeCleaning
+2025-06-20 19:55:32 [INFO] Saving charts to 8c3da06f-c532-4edf-ac8b-da67b8b8b196.png
+2025-06-20 19:55:32 [INFO] 
+Code running:
+```
+filtered_dfs = [df for df in dfs if '2021' in str(df) or '2023' in str(df)]
+season_stats_values = []
+for df in filtered_dfs:
+    season_stats_values.extend(list(zip(df['season'].values, df['stat'].values, df['value'].values)))
+result_df = pd.DataFrame(season_stats_values, columns=['season', 'stat', 'value'])
+plt.figure(figsize=(8, 6))
+for stat in result_df['stat'].unique():
+    df_stat = result_df[result_df['stat'] == stat]
+    plt.plot(df_stat['season'], df_stat['value'], label=stat)
+plt.xlabel('Season')
+plt.ylabel('Values')
+plt.title('2021 and 2023 Values by Statistic')
+plt.legend()
+plt.savefig('8c3da06f-c532-4edf-ac8b-da67b8b8b196.png')
+result = {'type': 'plot', 'value': '8c3da06f-c532-4edf-ac8b-da67b8b8b196.png'}
+        ```
+2025-06-20 19:55:32 [INFO] Executing Step 6: CodeExecution
+2025-06-20 19:55:32 [INFO] Executing Step 7: ResultValidation
+2025-06-20 19:55:32 [INFO] Answer: {'type': 'plot', 'value': '8c3da06f-c532-4edf-ac8b-da67b8b8b196.png'}
+2025-06-20 19:55:32 [INFO] Executing Step 8: ResultParsing
