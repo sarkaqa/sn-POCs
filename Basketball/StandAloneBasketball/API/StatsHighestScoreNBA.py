@@ -3,6 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 from colorama import Fore
 from Basketball.BasketballStatsData.statsResults import ResultLogger
+import pandas as pd
 
 
 class StatsHighestScoreNBA:
@@ -170,6 +171,34 @@ class StatsHighestScoreNBA:
             if result:
                 results[season] = result
         return results
+
+    ### AI panda method ###
+    def get_highest_stat_df(
+            self,
+            player_id: int,
+            stat_key: str,
+            start_year: int = None,
+            end_year: int = None,
+            logger=None
+    ) -> pd.DataFrame:
+        results = self.get_highest_stat_per_season(
+            player_id,
+            stat_key,
+            logger=logger,
+            start_year=start_year,
+            end_year=end_year
+        )
+        records = []
+        for season, data in results.items():
+            for date in data['dates']:
+                records.append({
+                    "season": season,
+                    "stat": stat_key,
+                    "value": data["value"],
+                    "date": date
+                })
+        df = pd.DataFrame.from_records(records)
+        return df
 
 
 if __name__ == '__main__':
