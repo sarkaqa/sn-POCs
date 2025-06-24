@@ -52,7 +52,10 @@ class StatsHighestScoreNBA:
 
             value = extractor(player_stats)
             start_date_list = game.get('startDate', [])
-            eastern_date = next((d.get('full') for d in start_date_list if d.get('dateType') == 'Eastern'), None)
+            eastern_date = next(
+                (d.get('full') for d in start_date_list if d.get('dateType') == 'Eastern'),
+                None
+            )
             date_only = eastern_date.split('T')[0] if eastern_date else None
             event_id = game.get('eventId')
 
@@ -61,7 +64,10 @@ class StatsHighestScoreNBA:
             return None, None, None
 
     def get_available_seasons(self, player_id):
-        url = f'https://prod.origin.api.stats.com/v1/stats/basketball/nba/stats/players/{player_id}?eventTypeId=1&enc=true&careerOnly=false'
+        url = (
+            f'https://prod.origin.api.stats.com/v1/stats/basketball/nba/'
+            f'stats/players/{player_id}?eventTypeId=1&enc=true&careerOnly=false'
+        )
         headers = {
             'User-Agent': 'Mozilla/5.0',
             'Accept': 'application/xml',
@@ -82,8 +88,8 @@ class StatsHighestScoreNBA:
                     year_elem = season_node.find('season')
                     if year_elem is not None and year_elem.text and year_elem.text.isdigit():
                         year_list.append(int(year_elem.text))
-
                 return year_list
+
             except ET.ParseError as e:
                 print(f"Error parsing XML for player {player_id}: {e}")
         else:
@@ -91,7 +97,10 @@ class StatsHighestScoreNBA:
         return []
 
     def get_highest_stat_for_season(self, player_id, season, stat_key, logger=None):
-        url = f'https://prod.origin.api.stats.com/v1/stats/basketball/nba/stats/players/{player_id}/events/?eventTypeId=1&season={season}'
+        url = (
+            f'https://prod.origin.api.stats.com/v1/stats/basketball/nba/'
+            f'stats/players/{player_id}/events/?eventTypeId=1&season={season}'
+        )
         response = requests.get(url)
 
         if response.status_code == 200:
@@ -99,7 +108,9 @@ class StatsHighestScoreNBA:
                 data = response.json()
                 if 'apiResults' not in data:
                     if logger:
-                        logger.log_line(f"No 'apiResults' found for player {player_id} in season {season}.")
+                        logger.log_line(
+                            f"No 'apiResults' found for player {player_id} in season {season}."
+                        )
                     return None
 
                 stat_values = []
@@ -114,7 +125,8 @@ class StatsHighestScoreNBA:
                             for event_type in season_data['eventType']:
                                 for event in event_type['splits']:
                                     for game in event['events']:
-                                        value, game_date, event_id = self.extract_game_stats(game, stat_key)
+                                        value, game_date, event_id = \
+                                            self.extract_game_stats(game, stat_key)
                                         if value is not None:
                                             stat_values.append(value)
                                             game_dates.append(game_date)
@@ -123,7 +135,9 @@ class StatsHighestScoreNBA:
                 if not stat_values:
                     if logger:
                         logger.log_line(
-                            f"No {self.STAT_LABELS.get(stat_key, stat_key)} data found for player {player_id} in season {season}.")
+                            f"No {self.STAT_LABELS.get(stat_key, stat_key)} data "
+                            f"found for player {player_id} in season {season}."
+                        )
                     return None
 
                 max_value = max(stat_values)
@@ -137,50 +151,65 @@ class StatsHighestScoreNBA:
                     event_id = event_ids[i]
                     tied_dates.append(date)
                     message = (
-                        f"{player_id} tied for highest {stat_label} in {season_label}: {max_value} | Game Date: {date} | Event ID: {event_id}"
+                        f"{player_id} tied for highest {stat_label} in {season_label}: "
+                        f"{max_value} | Game Date: {date} | Event ID: {event_id}"
                         if len(tied_indices) > 1 else
-                        f"{player_id} highest {stat_label} in {season_label}: {max_value} | Game Date: {date} | Event ID: {event_id}"
+                        f"{player_id} highest {stat_label} in {season_label}: "
+                        f"{max_value} | Game Date: {date} | Event ID: {event_id}"
                     )
                     if logger:
                         logger.log_line(message)
-
                 return {'value': max_value, 'dates': tied_dates}
 
             except Exception as e:
                 if logger:
-                    logger.log_line(f"Error processing data for player {player_id} in season {season}: {e}")
+                    logger.log_line(
+                        f"Error processing data for player {player_id} in season {season}: {e}"
+                    )
         else:
             if logger:
                 logger.log_line(
-                    f"Failed to retrieve data for player {player_id} in season {season} (status code: {response.status_code})")
+                    f"Failed to retrieve data for player {player_id} in season {season} "
+                    f"(status code: {response.status_code})"
+                )
         return None
 
-    def get_highest_stat_per_season(self, player_id, stat_key, logger=None, start_year=None, end_year=None):
+    def get_highest_stat_per_season(self, player_id, stat_key, logger=None,
+                                    start_year=None, end_year=None):
         all_seasons = self.get_available_seasons(player_id)
-
         if start_year is not None or end_year is not None:
-            seasons = [s for s in all_seasons if
-                       (start_year is None or s >= start_year) and
-                       (end_year is None or s <= end_year)]
+            seasons = [
+                s for s in all_seasons
+                if (start_year is None or s >= start_year) and
+                   (end_year is None or s <= end_year)
+            ]
         else:
             seasons = all_seasons
 
         results = {}
         for season in seasons:
-            result = self.get_highest_stat_for_season(player_id, season, stat_key, logger=logger)
+            result = self.get_highest_stat_for_season(
+                player_id, season, stat_key, logger=logger
+            )
             if result:
                 results[season] = result
         return results
 
     ### AI panda method ###
     def get_highest_stat_df(
-            self,
-            player_id: int,
-            stat_key: str,
-            start_year: int = None,
-            end_year: int = None,
-            logger=None
+        self,
+        player_id: int,
+        player_name: str,
+        stat_key: str,
+        start_year: int = None,
+        end_year: int = None,
+        logger=None
     ) -> pd.DataFrame:
+        if logger:
+            logger.log_section(
+                f"Fetching stats for {player_name} ({player_id}), stat={stat_key}"
+            )
+
         results = self.get_highest_stat_per_season(
             player_id,
             stat_key,
@@ -190,42 +219,53 @@ class StatsHighestScoreNBA:
         )
         records = []
         for season, data in results.items():
-            for date in data['dates']:
+            for date in data["dates"]:
                 records.append({
+                    "player": player_name,
                     "season": season,
-                    "stat": stat_key,
                     "value": data["value"],
-                    "date": date
+                    "date": date  # single string, not a list
                 })
-        df = pd.DataFrame.from_records(records)
-        return df
+
+        return pd.DataFrame.from_records(records)
 
 
 if __name__ == '__main__':
     STAT_KEY = 'threePointFieldGoals'
-    players = [214152]
+    players = [
+        (214152, "LeBron James"),
+        (338365, "Stephen Curry"),
+        (329525, "Kevin Durant"),
+        (551768, "Kyrie Irving"),
+        (201935, "James Harden"),
+        (739957, "Giannis Antetokounmpo"),
+        (1121277, "Luka Dončić"),
+        (794508, "Joel Embiid"),
+        (830650, "Nikola Jokić"),
+        # …other players…
+    ]
     logger = ResultLogger(stat_key=STAT_KEY, stat_labels=StatsHighestScoreNBA.STAT_LABELS)
-
 
     def log_colored_subsection(text, color=None):
         line = "—" * 100
         centered = text.center(100)
-
         if color:
             print(f"{color}{line}\n{centered}\n{line}{Fore.RESET}")
         else:
-            print(line)
-            print(centered)
-            print(line)
-
+            print(line); print(centered); print(line)
 
     overall_start = time.time()
+    tracker = StatsHighestScoreNBA()
+    _ = {}  # collect results if needed later, but don't print
 
-    for player_id in players:
-        logger.log_section(f"Processing stats for player {player_id} (limited range: 2023–2025)")
-        data_range = StatsHighestScoreNBA().get_highest_stat_per_season(
-            player_id, STAT_KEY, logger=logger, start_year=2023, end_year=2025
+    for player_id, player_name in players:
+        logger.log_section(f"Processing stats for {player_name} ({player_id}) (range: 2023–2025)")
+        df = tracker.get_highest_stat_df(
+            player_id, player_name, STAT_KEY,
+            start_year=2023, end_year=2025,
+            logger=logger
         )
+        _.setdefault(player_name, df)
 
     elapsed = time.time() - overall_start
     minutes = int(elapsed // 60)
