@@ -176,7 +176,7 @@ if __name__ == '__main__':
     for player_id in players:
         logger.log_section(f"Processing stats for player {player_id} (limited date range)")
         data_range = StatsHighestScoreNBA().get_highest_stat_per_season(
-            player_id, STAT_KEY, logger=logger, start_year=2018, end_year=2025, start_threshold=START_THRESHOLD
+            player_id, STAT_KEY, logger=logger, start_year=2023, end_year=2025, start_threshold=START_THRESHOLD
         )
 
     elapsed = time.time() - overall_start
